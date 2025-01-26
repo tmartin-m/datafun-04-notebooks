@@ -63,7 +63,7 @@ The commands work in zsh, bash, and more.
 
 ```powershell
 source .venv/bin/activate
-python3 myfile.py
+python3 demo-script.py
 ```
 
 

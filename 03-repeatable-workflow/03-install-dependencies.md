@@ -3,7 +3,7 @@
 This page explains how to install external dependencies for a Python project. 
 
 ## Python Standard Library
-We do not need to install packages from the Python Standard Library - they are included with our version. The standard library includes helpful packages like os, sys, pathlib, time, and more. See the index. 
+We do not need to install packages from the Python Standard Library - they are included with our version. The standard library includes helpful packages like pathlib, sqlite3, os, sys, time, and more. See the index. 
 
 ## External Dependencies
 External dependencies are libraries, packages, and modules beyond the standard library and include common packages like pandas, numpy, seaborn, and matplotlib. 

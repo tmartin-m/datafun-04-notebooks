@@ -51,3 +51,31 @@ These steps are typically followed whenever we make changes to a project. The wo
 - Follow the instructions carefully.
 - Follow the instructions in the recommended order.
 - Verify each step before proceeding. 
+
+## Celebrate
+Follow each step carefully. 
+We have helped hundreds of new analysts get started with professional Python. 
+Verify you can run both a script and a notebook successfully. 
+Then, celebrate - that's a big iceberg needed to get started with Professional Python.
+
+## Follow The Proven Path Provided
+Hopefully, each step is not too bad and things go well. 
+When they don't - that's to be expected. 
+Part of the reason we get hired is to "figure things out" and we are here to help you do that. 
+Learn to do a web search, and experiment with free AI assistants to help explain and provide any additional details needed. 
+Remember, YOU are in charge. 
+This is the process we support and these instructions work. 
+Do NOT deviate unless you agree to invest time and energy to ensure any of the many alternate paths work for you throughout the program. 
+
+## Explore
+AFTER that is where the power and joy of working with Python begins. 
+Keep good notes. 
+Save the working versions and then, change things. 
+- Rename a variable. 
+- Add a new statement. 
+- Comment things out.
+- Rename a function. 
+- Check out the logs. 
+
+Working with code is a fun, safe, rewarding way to learn. 
+If you enjoy puzzles, getting value from Python is a great way to earn a living. 
