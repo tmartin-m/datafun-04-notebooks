@@ -29,7 +29,7 @@ On Mac/Linux:
     - Linux: Use your file manager settings to show hidden files.
 
 3. Enable viewing file extensions:
-    - Mac: In Finder, go to Preferences > Advanced and check "Show all filename extensions."
+    - Mac: In Finder, go to menu Finder > Settings > Advanced and check "Show all filename extensions."
     - Linux: Use your file manager settings to show file extensions.
 
 Verify by finding a folder with files that have file extensions (e.g., .md in our README.md files). 
