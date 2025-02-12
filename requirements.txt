@@ -14,6 +14,9 @@
 # STEP A - CREATE A LOCAL PROJECT VIRTUAL ENV (.venv)
 # ======================================================
 
+# This option uses the most current or default Python -
+# if an older version is required, use the ADVANCED OPTION below. 
+
 # Create your local project virtual environment
 # This step ensures you have an isolated Python environment for your project.
 # This is typically just done once at the beginning of a project.
@@ -31,7 +34,7 @@
 # Click Yes. 
 
 # ======================================================
-# STEP A (ADVANCED OPTION) - ONLY USE IF REQUIRED
+# STEP A (ADVANCED OPTION) - IF OLDER PYTHON REQUIRED
 # ======================================================
 
 ### IMPORTANT: 
@@ -41,7 +44,8 @@
 ### On Windows, Use PowerShell (not cmd) - don't include the #:
 # py -3.11 -m venv .venv
 ### On Mac/Linux, Use zsh or bash (or PowerShell) - don't include the #:
-# python3 -3.11 -m venv .venv
+# pyenv local 3.11.11
+# python3 -m venv .venv
 
 # ======================================================
 # STEP B - ALWAYS ACTIVATE THE (.venv) WHEN OPENING A NEW TERMINAL
@@ -72,7 +76,7 @@
 
 ### Windows Command (don't include the #):
 # py -m pip install --upgrade pip setuptools wheel
-# py -m pip install -r requirements.txt
+# py -m pip install --upgrade -r requirements.txt
 
 ### Mac/Linux Command (don't include the #):
 # python3 -m pip install --upgrade pip setuptools wheel
@@ -95,8 +99,29 @@
 #    in the bottom-left corner of the VS Code window in the status bar.
 
 # ======================================================
-# ESSENTIAL TOOLS - UNCOMMENT THE NECESSARY ONES BELOW
+# COMMON STANDARD LIBRARY MODULES (NO INSTALL REQUIRED)
 # ======================================================
+# These modules are built into Python and do NOT need to be installed.
+# They are available automatically when using Python.
+
+# DO NOT UNCOMMENT THESE - THEY ARE ALREADY INCLUDED.
+
+# json - For handling JSON data
+# csv - For reading/writing CSV files
+# datetime - For handling dates and times
+# logging - For structured logging in Python
+# os - For interacting with the operating system (e.g., file paths, environment variables)
+# sys - For accessing system-specific parameters and functions
+# pathlib - For working with filesystem paths
+# sqlite3 - For working with SQLite databases (built into Python)
+# time - For working with time-based functions
+# random - For generating random numbers
+# re - For regular expressions and pattern matching
+
+# ======================================================
+# ESSENTIAL EXTERNAL TOOLS - UNCOMMENT ONLY WHAT THE PROJECT NEEDS
+# ======================================================
+# Uncomment needed packages below and add more as required for the project.
 
 # Up-to-date package management tools
 pip
@@ -140,7 +165,7 @@ ipywidgets
 #numpy
 
 # Data manipulation and analysis (built on numpy, 10-20 MB)
-#pandas
+pandas
 
 # ======================================================
 # VISUALIZATION
@@ -176,6 +201,9 @@ seaborn
 # Streaming data processing framework (~200-250 MB)
 #pyspark<4.0.0
 
+# Alternative lightweight parallel computing framework
+#dask  
+
 # ======================================================
 # MACHINE LEARNING (ML)
 # ======================================================
@@ -192,4 +220,26 @@ seaborn
 
 # SpaCy: A powerful NLP library ~50 MB (core library; language models + ~300 MB or more per model).
 #spacy
+
+# ======================================================
+# SQL DATABASE SUPPORT
+# ======================================================
+
+# ORM for SQL databases (~10 MB) when sqlite3 is not enough
+#sqlalchemy  
+
+# ======================================================
+# SENDING ALERTS via Simple Email or SMS Text
+# ======================================================
+
+# These packages allow sending email or SMS alerts from Python.
+# They require additional configuration before use.
+
+# See setup instructions at:
+# https://github.com/denisecase/dc-mailer
+# https://github.com/denisecase/dc-texter
+
+# Uncomment the necessary package(s) to send email or SMS alerts.
+# dc-mailer
+# dc-texter
 
