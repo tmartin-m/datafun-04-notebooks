@@ -39,16 +39,24 @@ If VS Code asks: We noticed a new environment has been created.
 Do you want to select it for the workspace folder?
 Click Yes. 
 
-## ADVANCED OPTION (Only Use When Required)
+## ADVANCED OPTION (Create .venv when an Older Python Version is Required)
 
-Python versions matter. In many projects we can use the most recent version of Python 3.
-However, using tools like Apache Kafka or Apache Spark
-may require an earlier version of Python (it takes a while to get all the code updated).
+Most projects can use the latest Python 3.x, but some tools (like Apache Kafka or Apache Spark) may require an older version.
 
-To use those tools in a project, we may need to install a specific earlier version of Python
- and specify the required version when we create the virtual environment. 
+First, see the machine setup instructions to install additional versions of Python. 
+
+Then, specify the required version when creating the virtual environment. 
  For example:
 
-On Windows, Use PowerShell (not cmd): `py -3.11 -m venv .venv`
+### On Windows, Use PowerShell (not cmd)
 
-On Mac/Linux, Use zsh or bash: `python3 -3.11 -m venv .venv`
+```powershell
+py -3.11 -m venv .venv
+```
+
+### On Mac/Linux, Use zsh or bash
+
+```
+pyenv local 3.11.11
+python3 -m venv .venv
+```
