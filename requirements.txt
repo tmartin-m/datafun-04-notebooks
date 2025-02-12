@@ -192,6 +192,7 @@ seaborn
 # ======================================================
 
 # Apache Kafka Python client (~1 MB)
+# Currently requires Python 3.11
 #kafka-python-ng
 
 # ======================================================
@@ -199,6 +200,7 @@ seaborn
 # ======================================================
 
 # Streaming data processing framework (~200-250 MB)
+# Currently requires Python <3.12, e.g. 3.11
 #pyspark<4.0.0
 
 # Alternative lightweight parallel computing framework
@@ -219,7 +221,8 @@ seaborn
 #nltk
 
 # SpaCy: A powerful NLP library ~50 MB (core library; language models + ~300 MB or more per model).
-#spacy
+# Currently requires Python <=3.12
+#spacy<3.7
 
 # ======================================================
 # SQL DATABASE SUPPORT
@@ -242,4 +245,3 @@ seaborn
 # Uncomment the necessary package(s) to send email or SMS alerts.
 # dc-mailer
 # dc-texter
-
