@@ -232,15 +232,15 @@ seaborn
 #sqlalchemy  
 
 # ======================================================
-# SENDING ALERTS via Simple Email or SMS Text
+# SENDING ALERTS via Simple Email or SMS Text using Gmail
 # ======================================================
 
 # These packages allow sending email or SMS alerts from Python.
 # They require additional configuration before use.
 
 # See setup instructions at:
-# https://github.com/denisecase/dc-mailer
-# https://github.com/denisecase/dc-texter
+# https://pypi.org/project/dc-mailer/ or https://github.com/denisecase/dc-mailer
+# https://pypi.org/project/dc-texter/ or https://github.com/denisecase/dc-texter
 
 # Uncomment the necessary package(s) to send email or SMS alerts.
 # dc-mailer
