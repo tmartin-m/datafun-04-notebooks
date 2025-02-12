@@ -167,7 +167,7 @@ seaborn
 # ======================================================
 
 # Apache Kafka Python client (~1 MB)
-#kafka-python
+#kafka-python-ng
 
 # ======================================================
 # STREAM PROCESSING - CAN BE VERY LARGE
