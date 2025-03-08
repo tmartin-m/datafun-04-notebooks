@@ -39,6 +39,15 @@ Open the project notebook in VS Code. The file will have a .ipynb extension.
 
 3. Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.
 
+## AS-NEEDED: If `.venv` packages (e.g., `pandas`) are not recognized  
+
+1. Create a `.vscode` folder in your project.  
+2. Add a `settings.json` file.  
+3. Copy the full content from our shared [`.vscode/settings.json`](./.vscode/settings.json).  
+4. Close and reopen your notebook.  
+5. Activate the `.venv` environment.  
+6. Verify or set the kernel as needed.  
+
 ## AS-NEEDED: Restart 
 
 You may need to exit the notebook and restart the kernel periodically for best results. As needed, reopen, restart, and run all to verify.  
