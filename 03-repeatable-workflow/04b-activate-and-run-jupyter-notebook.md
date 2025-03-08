@@ -23,8 +23,11 @@ Open the notebook in VS Code. The file will have a .ipynb extension.
 
 Open the project notebook in VS Code. The file will have a .ipynb extension.
 - If prompted, select a Python interpreter that corresponds to your .venv.  
-- If not prompted, click the kernel selector in the top-right corner of the notebook editor and choose the interpreter associated with your .venv.
-
+- If not prompted, click the kernel selector in the top-right corner of the notebook editor and choose the interpreter associated with your Python Environment / .venv.
+- Or:
+   - From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)
+   - Type: Python: Select Interpreter 
+   - Choose your .venv from the list
 
 ## Task 2. Start and Run a Jupyter Notebook
 
