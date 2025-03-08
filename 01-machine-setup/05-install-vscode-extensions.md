@@ -12,23 +12,25 @@ Use the VS Code menu to navigate to View > Extensions (or press Ctrl+Shift+X on 
 
 ## Install the Following Extensions
 
-Search for and install the following extensions in the Extensions panel:
+Search for and install the following extensions in the Extensions panel.
 
-1. Python  
-   - Publisher: Microsoft  
-   - Provides IntelliSense, debugging, and support for Jupyter notebooks.
+1. Install Core Extensions:
+   - Python (by Microsoft) – Language support, linting, debugging  
+   - Jupyter (by Microsoft) – Run and edit Jupyter Notebooks  
+   - Pylance (by Microsoft) – Fast type checking and IntelliSense  
 
-2. Jupyter  
-   - Publisher: Microsoft  
-   - Enables support for running and debugging Jupyter notebooks.
+2. Add Notebook-Specific Support (Optional):
+   - Jupyter Keymap (by Microsoft) – Jupyter-style shortcuts in VS Code  
+   - Jupyter Notebook Renderers (by Microsoft) – Improved cell output formatting  
 
-3. Pylance  
-   - Publisher: Microsoft  
-   - Provides advanced language support for Python.
-
-4. Black Formatter
-   - Publisher: Microsoft  
-   - Formats Python code to comply with PEP 8 standards automatically.
+3. Set Up Code Formatting and Style:
+   - Prettier (by Prettier) – Code formatting for Python, markdown, and more  
+   - Markdown All in One (by Yu Zhang) – Formatting and live preview for markdown files
+   - Rainbow CSV (by mechatroner) - formatting comma-separated values by color
+  
+4. Work with SQLite databases in VS Code:
+   - SQLite Viewer (by Florian Klampfer) – Lightweight extension for opening and editing `.db` files directly in VS Code. Supports running queries and viewing tables.
+   - SQLite (by alexcvzz) – Full-featured SQLite extension with query support, table management, and data visualization.
 
 ## Verify Installation
 
