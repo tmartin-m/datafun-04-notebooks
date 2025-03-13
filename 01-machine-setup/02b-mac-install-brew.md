@@ -16,9 +16,13 @@ brew --version
 
 ## Steps to Install Homebrew
 
-If Homebrew is not already installed, install it, update it, and verify:
+If Homebrew is not already installed, install it, update it, and verify.
+
+Use the command provided on their official site at <https://brew.sh/> in the first line below.
+
 ```zsh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 brew update
 brew --version
 ```
