@@ -10,7 +10,13 @@ Open a PowerShell terminal and run the following commands:
 winget install --id Python.Python.3
 winget install --id Git.Git
 winget install --id Microsoft.VisualStudioCode
+```
 
+Close that terminal. 
+
+Open a PowerShell terminal again and run the following commands to verify. 
+
+```powershell
 py --version
 python --version
 pip --version
@@ -18,9 +24,12 @@ git --version
 code --version
 ```
 
-## Multiple Versions of Python
+## ADVANCED: Multiple Versions of Python
 
-If you need to add an earlier version of Python (e.g. to use with complex tools such as Kafka or Spark), install additional Python versions like so:
+This is not typically needed. 
+Only continue with this section if you need to add an earlier version of Python (e.g. to use with complex tools such as Kafka or Spark).
+
+In that case, we can install additional Python versions like so:
 
 ```powershell
 winget install --id Python.Python.3.11.11
