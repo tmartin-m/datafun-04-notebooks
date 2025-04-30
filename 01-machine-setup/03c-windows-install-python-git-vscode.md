@@ -1,30 +1,38 @@
 # 03-windows-install-python-git-vscode.md
 
-This page provides instructions to install or verify Python, Git, and Visual Studio Code on a Windows machine using the Winget package manager.
+This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a Windows machine using **official installers**.  
+Advanced users may choose to use the **Winget** package manager (optional).
 
-## Steps to Install or Verify
+## Use Official Installers (Recommended for Most Users)
 
-Open a PowerShell terminal and run the following commands:
+Download and Install Each Tool:
 
-```powershell
-winget install --id Python.Python.3
-winget install --id Git.Git
-winget install --id Microsoft.VisualStudioCode
-```
+- **Python**: <https://www.python.org/>
+  YOU MUST check **“Add Python to PATH”** during installation. If you forget, rerun installation with the box checked.
 
-Close that terminal. 
+- **Git**: <https://git-scm.com/>
 
-Open a PowerShell terminal again and run the following commands to verify. 
+- **VS Code** (Visual Studio Code): <https://code.visualstudio.com/>
+
+## Restart Computer After Installation
+
+Restart your computer after installation (optional but recommended).
+
+## Verify
+
+After restarting, open a new PowerShell terminal and run the following commands to verify. 
 
 ```powershell
 py --version
-python --version
 pip --version
 git --version
 code --version
 ```
 
-## ADVANCED: Multiple Versions of Python
+IMPORTANT: Each command should return a version number.
+If any fail, revisit the installers and try again. 
+
+## OPTIONAL/ADVANCED: Multiple Versions of Python
 
 This is not typically needed. 
 Only continue with this section if you need to add an earlier version of Python (e.g. to use with complex tools such as Kafka or Spark).
@@ -35,5 +43,16 @@ In that case, we can install additional Python versions like so:
 winget install --id Python.Python.3.11.11
 ```
 
-Note: py --version and python --version may return different versions depending on which order they were installed, system path settings, and more. 
-We will specify the desired Python version when creating the project virtual environment in the next workflow.
+Note: py --version and python --version and python3 --version may or may not work and may return different versions depending on which order they were installed, system path settings, and more. 
+We can specify the desired Python version when creating a project virtual environment in the next workflow.
+
+## OPTIONAL/ADVANCED: Use Package Managers (instructions may not be complete)
+
+Open a PowerShell terminal and run the following commands:
+
+```powershell
+winget install --id Python.Python.3
+winget install --id Git.Git
+winget install --id Microsoft.VisualStudioCode
+```
+Restart your machine and verify as shown above. 
