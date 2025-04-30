@@ -7,11 +7,8 @@ These tools are essential for professional data analytics.
 
 Download and Install Each Tool:
 
-- **Python**: <https://www.python.org/>
-  YOU MUST check **“Add Python to PATH”** during installation. If you forget, rerun installation with the box checked.
-
+- **Python**: <https://www.python.org/> YOU MUST check **“Add Python to PATH”** during installation. If you forget, rerun installation with the box checked.
 - **Git**: <https://git-scm.com/>
-
 - **VS Code** (Visual Studio Code): <https://code.visualstudio.com/>
 
 ## 2. Restart Computer After Installation
@@ -32,7 +29,7 @@ code --version
 IMPORTANT: Each command should return a version number.
 If any fail, revisit the installers and try again. 
 
-## OPTIONAL/ADVANCED: Multiple Versions of Python
+## OPTIONAL/ADVANCED: Installing Multiple Versions of Python
 
 This is not typically needed. 
 Only continue with this section if you need to add an earlier version of Python (e.g. to use with complex tools such as Kafka or Spark).
