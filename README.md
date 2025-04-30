@@ -68,14 +68,16 @@ This is the process we support and these instructions work.
 Do NOT deviate unless you agree to invest time and energy to ensure any of the many alternate paths work for you throughout the program. 
 
 ## Explore
+
 AFTER that is where the power and joy of working with Python begins. 
 Keep good notes. 
-Save the working versions and then, change things. 
+Save the working versions and then, change things. For example:
+
 - Rename a variable. 
 - Add a new statement. 
 - Comment things out.
 - Rename a function. 
-- Check out the logs. 
+- View the logs. Log something new (e.g., every function when called and before returning a value).
 
 Working with code is a fun, safe, rewarding way to learn. 
 If you enjoy puzzles, getting value from Python is a great way to earn a living. 
