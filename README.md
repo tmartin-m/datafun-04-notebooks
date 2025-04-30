@@ -21,7 +21,7 @@ This section contains **one-time tasks** including:
 
 ---
 
-## 02-Project-Initialization
+## Second: Initialize a Project
 Go to [02-Project-Initialization](./02-project-initialization/PROJECT-INITIALIZATION.md) when **starting a new project**.
 
 This section walks you through the steps to either:
@@ -33,7 +33,7 @@ This section walks you through the steps to either:
 
 ---
 
-## 03-Repeatable-Workflow
+## Third: Work on the Project Over Time
 Go to [03-Repeatable-Workflow](./03-repeatable-workflow/REPEATABLE-WORKFLOW.md) for ongoing project development.
 
 This section provides the **repeatable steps** for working on Python projects. 
