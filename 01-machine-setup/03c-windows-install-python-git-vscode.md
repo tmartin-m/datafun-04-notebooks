@@ -1,7 +1,7 @@
 # 03-windows-install-python-git-vscode.md
 
 This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a Windows machine using **official installers**.  
-Advanced users may choose to use the **Winget** package manager (optional).
+These tools are essential for professional data analytics.
 
 ## 1. Use Official Installers (Recommended for Most Users)
 
