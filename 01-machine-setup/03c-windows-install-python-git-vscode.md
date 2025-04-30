@@ -3,7 +3,7 @@
 This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a Windows machine using **official installers**.  
 Advanced users may choose to use the **Winget** package manager (optional).
 
-## Use Official Installers (Recommended for Most Users)
+## 1. Use Official Installers (Recommended for Most Users)
 
 Download and Install Each Tool:
 
@@ -14,11 +14,11 @@ Download and Install Each Tool:
 
 - **VS Code** (Visual Studio Code): <https://code.visualstudio.com/>
 
-## Restart Computer After Installation
+## 2. Restart Computer After Installation
 
 Restart your computer after installation (optional but recommended).
 
-## Verify
+## 3. Verify
 
 After restarting, open a new PowerShell terminal and run the following commands to verify. 
 
