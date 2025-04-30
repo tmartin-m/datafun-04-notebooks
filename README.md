@@ -12,7 +12,7 @@ Start here to set up a machine for the first time (or to upgrade or verify profe
 
 This section contains **one-time tasks** including:
 1. View file extensions and hidden files and folders.
-2. Install (or verify) a package manager for your operating system.
+2. Optional: Install (or verify) a package manager for your operating system.
 3. Install Python, Git, and Visual Studio (VS) Code for your operating system.
 4. Configure Git
 5. Install common VS Code extensions.
