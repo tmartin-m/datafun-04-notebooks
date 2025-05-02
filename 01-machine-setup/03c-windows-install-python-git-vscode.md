@@ -53,3 +53,11 @@ winget install --id Git.Git
 winget install --id Microsoft.VisualStudioCode
 ```
 Restart your machine and verify as shown above. 
+
+---
+
+## Screenshots
+
+![images/windows_add_python_to_path.png]
+
+---
