@@ -7,7 +7,7 @@ These tools are essential for professional data analytics.
 
 Download and Install Each Tool:
 
-- **Python**: <https://www.python.org/>. Be sure to run the downloaded `.pkg` file and follow the installer instructions.
+- **Python**: <https://www.python.org/>. Be sure to run the downloaded `.pkg` file and follow the installer instructions. Important: You must finalize your installation by installing certificates. An additional step is shown when installation completes (see the screenshot below). Look for the Python installation in Finder. Find the "Install Certifications" icon, and double-click to run it. This will be required when we add Git - do this now, while the links are available. 
 - **Git** is often already installed on macOS. You can check by typing `git --version` in the terminal. If it's missing or outdated, install it from: <https://git-scm.com/>.
 - **VS Code** (Visual Studio Code): <https://code.visualstudio.com/>
 
@@ -62,7 +62,11 @@ If you need to add an earlier version of Python (e.g. to use with complex tools 
 ```zsh
 pyenv install 3.11.11
 ```
+---
 
+## Screenshots
+
+![images/mac-python-install-certs.png]
 ---
 Note: py --version and python --version and python3 --version may or may not work and may return different versions depending on which order they were installed, system path settings, and more.
 We can specify the desired Python version when creating a project virtual environment in the next workflow.
