@@ -6,7 +6,7 @@ It slows things down when working with Python projects which can be very large (
 We back them up ourselves using GitHub. 
 We recommend creating a dedicated folder outside of OneDrive's sync scope, for example, a folder named Repos (short for repositories) in the root of your C: drive (i.e. C:\Repos, directions below).
 
-### Windows Task 1. Create C:\Repos Directory
+### Windows Task 1. Create `C:\Repos` Directory
 
 1. Open File Explorer.
 2. Navigate to C:\.
@@ -23,7 +23,7 @@ We recommend keeping your GitHub projects organized and outside any cloud-sync d
 This ensures smoother performance, especially when working with Python projects, and avoids syncing unnecessary transient files.
 We recommend creating a dedicated folder that is not synced, for example, a folder named Repos (short for repositories) in your Home folder (i.e. ~/Repos, directions below).
 
-### Mac/Linux Task 1. Create ~/Repos Directory
+### Mac/Linux Task 1. Create `~/Repos` Directory
 
 1. Click the Finder icon in your Dock to open a new Finder window.
 2. Access Your Home Directory: In the Finder menu bar at the top of your screen, click Go, then select Home. Alternatively, press Command + Shift + H to open your Home folder.
