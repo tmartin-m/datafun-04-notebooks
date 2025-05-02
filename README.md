@@ -16,7 +16,7 @@ This section contains **one-time tasks** including:
 3. Install Python, Git, and Visual Studio (VS) Code for your operating system.
 4. Configure Git
 5. Install common VS Code extensions.
-6. Create a Projects folder to hold your projects. 
+6. Create a folder on your machine to hold your GitHub projects. 
 7. Create a GitHub account (join 100 Million Developers!)
 
 ---
