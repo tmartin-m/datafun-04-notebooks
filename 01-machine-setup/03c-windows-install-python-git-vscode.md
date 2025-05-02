@@ -56,8 +56,9 @@ Restart your machine and verify as shown above.
 
 ---
 
-## Screenshots
+## Important
 
+Your version will likely be newer, but remember to check the box to add Python to your path during installation.
 ![Important: Add Python to Path](images/windows_add_python_to_path.png)
 
 ---
