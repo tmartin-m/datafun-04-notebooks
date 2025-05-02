@@ -32,6 +32,9 @@ These tasks are typically performed once when setting up a new machine or upgrad
 7. Create a GitHub Account:
    - [07-create-github-account.md](07-create-github-account.md)
 
+8. Open VS Code in the `Repos` folder and use the integrated terminal to verify setup:
+   - [08-open-vscode-in-folder.md](08-open-vscode-in-folder.md)
+
 ---
 
 ## Important
