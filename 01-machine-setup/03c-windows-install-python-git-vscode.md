@@ -58,6 +58,6 @@ Restart your machine and verify as shown above.
 
 ## Screenshots
 
-![images/windows_add_python_to_path.png]
+![Important: Add Python to Path](images/windows_add_python_to_path.png)
 
 ---
