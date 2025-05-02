@@ -20,7 +20,7 @@ This is a good starting point for Python projects.
 Actual `.gitignore` contents will vary by project. 
 
 
-## Task 2. Create requirements.txt
+## Task 2. Create `requirements.txt`
 
 Create a new file in your root project folder named exactly: `requirements.txt`.
 IMPORTANT: Spelling, capitalization, and name are critical. If the name or location is not exact, the commands we provide will not work. 
