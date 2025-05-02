@@ -8,7 +8,7 @@ This page provides instructions to add files to version control, commit changes,
 
 ## Before Starting
 
-Ensure your project repository is open in VS Code, and you have made changes (e.g. created the .gitignore and requirements.txt files).
+Ensure your project folder is open in VS Code, and you have made changes (e.g. created the .gitignore and requirements.txt files).
 
 ## Task 1. Git add-commit-push
 
