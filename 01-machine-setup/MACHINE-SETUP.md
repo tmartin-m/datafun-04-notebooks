@@ -26,7 +26,7 @@ These tasks are typically performed once when setting up a new machine or upgrad
 5. Install common VS Code extensions:  
    - [05-install-vscode-extensions.md](05-install-vscode-extensions.md)
 
-6. Create a dedicated Projects folder to hold your Python projects:  
+6. Create a dedicated folder to hold your GitHub projects:  
    - [06-create-projects-folder.md](06-create-projects-folder.md)
 
 7. Create a GitHub Account:
