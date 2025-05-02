@@ -34,6 +34,6 @@ If the repository is created without a README, it will not work the same when cl
 - If you forget to add a README file, delete the repository and start over. This time, check the box to add a default README.
 - The subsequent steps will NOT work the same if the new repository does not have a file in the repo already. 
 
-## Finding the Option to Create New 
+## Finding the Option to Create New Repository
 
 ![GitHub: Create New Repo](images/GitHub-Plus-New-Repo.png)
