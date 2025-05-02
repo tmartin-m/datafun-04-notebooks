@@ -6,7 +6,7 @@ when developing professional Python projects.
 
 The instructions are divided into three main sections.
 
-## First: Setup Machine and Sign up for GitHub
+## First: Set Up Machine & Sign up for GitHub
 Go to [01-machine-setup](01-machine-setup/MACHINE-SETUP.md) to prepare for Python projects.
 Start here to set up a machine for the first time (or to upgrade or verify professional tools).
 
@@ -17,7 +17,7 @@ This section contains **one-time tasks** including:
 4. Configure Git
 5. Install common VS Code extensions.
 6. Create a Projects folder to hold your projects. 
-7. Create a GitHub account.
+7. Create a GitHub account (join 100 Million Developers!)
 
 ---
 
