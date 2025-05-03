@@ -144,6 +144,9 @@ wheel
 # Easy logging for monitoring code execution
 loguru
 
+# HTTP requests made simple
+requests
+
 # Environment variables management
 # python-dotenv
 
