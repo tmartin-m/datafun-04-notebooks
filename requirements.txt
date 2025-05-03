@@ -145,7 +145,7 @@ wheel
 loguru
 
 # HTTP requests made simple
-requests
+# requests
 
 # Environment variables management
 # python-dotenv
