@@ -15,7 +15,7 @@ Create a new file in your root repo folder named exactly: `.gitignore`
 IMPORTANT: Spelling, capitalization, and name are critical. 
 If the name or location is not exact, it will not work. 
 
-Find the `.gitignore` file in the root of this repo and paste the entire contents into your `.gitignore` file.
+Find the `.gitignore` file in the root of this (pro-analytics-01) repo and paste the entire contents into your `.gitignore` file.
 This is a good starting point for Python projects. 
 Actual `.gitignore` contents will vary by project. 
 
@@ -25,7 +25,7 @@ Actual `.gitignore` contents will vary by project.
 Create a new file in your root project folder named exactly: `requirements.txt`.
 IMPORTANT: Spelling, capitalization, and name are critical. If the name or location is not exact, the commands we provide will not work. 
 
-Find the `requirements.txt` file in the root of this repo and paste the entire contents into your `requirements.txt`file.
+Find the `requirements.txt` file in the root of this (pro-analytics-01) repo and paste the entire contents into your `requirements.txt`file.
 This is a good starting point for Python projects. 
 Actual `requirements.txt` contents will vary by project. 
 
