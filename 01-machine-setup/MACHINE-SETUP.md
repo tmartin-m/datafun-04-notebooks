@@ -9,7 +9,7 @@ These tasks are typically performed once when setting up a new machine or upgrad
 If you prefer listening while following the steps, try the audio podcast.
 [Download](https://raw.githubusercontent.com/denisecase/pro-analytics-01/main/01-machine-setup/audio/Pro_Python_Setup_and_Workflow_Part1of3_SetUpMachine.mp3) or learn more at [AUDIO.md](./AUDIO.md).
 
-To play in your browser, [click here](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md).
+To play in your browser, [click here](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html).
 Audio controls only work when viewed in GitHub Pages.
 
 <audio controls>
