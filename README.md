@@ -1,5 +1,7 @@
 # Pro Analytics 01: Setup and Workflow Guide
 
+[![Audio Guide (1 of 3)](https://img.shields.io/badge/Audio%20Guide-1%20of%203-brightgreen)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html)  
+
 This repository provides a clear, concise guide to help set up a machine for Python projects, 
 initialize a new Python project, and follow a repeatable project workflow 
 when developing professional Python projects. 
@@ -7,7 +9,7 @@ when developing professional Python projects.
 The instructions are divided into three main sections.
 
 ## First: Set Up Machine & Sign up for GitHub
-Go to [01-machine-setup](01-machine-setup/MACHINE-SETUP.md) to prepare for Python projects.
+Go to [01-machine-setup](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) to prepare for Python projects.
 Start here to set up a machine for the first time (or to upgrade or verify professional tools).
 
 This section contains **one-time tasks** including:
