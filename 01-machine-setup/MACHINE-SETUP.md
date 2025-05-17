@@ -1,4 +1,4 @@
-# Machine Setup
+# Part 1: Machine Setup
 
 This section provides step-by-step instructions to set up a machine for Python projects. 
 These tasks are typically performed once when setting up a new machine or upgrading tools for professional Python development.
