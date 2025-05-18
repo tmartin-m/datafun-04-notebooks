@@ -38,6 +38,3 @@ If the repository is created without a README, it will not work the same when cl
 
 ![GitHub: Create New Repo](images/GitHub-Plus-New-Repo.png)
 
----
-
-[🟠 Back to Part 2 Home](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html) | [🔗 View Part 2 on GitHub](https://github.com/denisecase/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)

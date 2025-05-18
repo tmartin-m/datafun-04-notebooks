@@ -17,6 +17,3 @@ apt --version
 
 If you use a different flavor of Linux, install or update your recommended package manager.
 
----
-
-[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)

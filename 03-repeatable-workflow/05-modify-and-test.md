@@ -14,6 +14,3 @@ If you encounter errors, use debugging tools or strategically placed print or lo
 Use git add-commit-push frequently to commit small sets of well-labeled changes to the repository. 
 A good commit history helps identify where things might have gone wrong (and when they got fixed).
 
----
-
-[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

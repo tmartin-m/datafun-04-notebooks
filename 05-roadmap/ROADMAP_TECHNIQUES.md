@@ -104,4 +104,4 @@ This page highlights core techniques and concepts professionals apply across rea
 
 ---
 
-[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
+[🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)

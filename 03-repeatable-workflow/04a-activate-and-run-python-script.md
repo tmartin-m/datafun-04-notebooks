@@ -82,6 +82,3 @@ If any new external dependencies have been added to any Python scripts, add the 
 - Understand when adding a new external dependency, we must first add it to requirements.txt and re-run the install command. 
 - Record your process and steps in your project README.md as you go. 
 
----
-
-[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

@@ -34,6 +34,3 @@ git config --list
 Verify that the last command correctly shows your user.name and user.email. 
 If not, repeat the installation and configuration until successful.
 
----
-
-[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)

@@ -1,7 +1,5 @@
 # Pro Analytics 01: Setup and Workflow Guide
 
-[![Audio Guide (1 of 3)](https://img.shields.io/badge/Audio%20Guide-1%20of%203-brightgreen)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html)  [![Audio Guide (2 of 3)](https://img.shields.io/badge/Audio%20Guide-2%20of%203-orange)](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html)  [![Audio Guide (3 of 3)](https://img.shields.io/badge/Audio%20Guide-3%20of%203-blue)](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html)
-
 This repository provides a clear, concise guide to help set up a machine for Python projects, 
 initialize a new Python project, and follow a repeatable project workflow 
 when developing professional Python projects. 
@@ -9,7 +7,7 @@ when developing professional Python projects.
 The instructions are divided into three parts.
 
 ## Part 1: Set Up Machine & Sign up for GitHub
-Go to [🟢 Machine Setup (1 of 3)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) to prepare for Python projects.
+Go to [🟢 Machine Setup (1 of 3)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md) to prepare for Python projects.
 Start here to set up a machine for the first time (or to upgrade or verify professional tools).
 
 This section contains **one-time tasks** including:
@@ -24,7 +22,7 @@ This section contains **one-time tasks** including:
 ---
 
 ## Part 2: Initialize a Project
-Go to [🟠 Project Initialization (2 of 3)](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html)  when **starting a new project**.
+Go to [🟠 Project Initialization (2 of 3)](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)  when **starting a new project**.
 
 This section walks you through the steps to either:
 1. Copy an existing project OR start a new project from scratch.
@@ -36,7 +34,7 @@ This section walks you through the steps to either:
 ---
 
 ## Part 3: Work on the Project Over Time
-Go to [🔵 Repeatable Workflow (3 of 3)](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) for ongoing project development.
+Go to [🔵 Repeatable Workflow (3 of 3)](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md) for ongoing project development.
 
 This section provides the **repeatable steps** for working on Python projects. 
 These steps are typically followed whenever we make changes to a project. The workflow includes:
@@ -116,6 +114,21 @@ git commit -m "custom message"
 git push -u origin main
 ```
 
----
+## OPTIONAL: Listen to the Audio Guides
 
-[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
+If you prefer listening **while following the written steps above**, optional audio guides are available. These are **AI-generated two-person podcasts**.
+
+The audio is **supplementary** and **not a replacement for the written instructions**.
+It may be distracting, and the speakers may mispronounce key files and commands.
+These are mostly interesting from a state-of-the-art perspective.
+
+- [🟢 **Audio Guide (1 of 3): Machine Setup**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_1.mp3)  
+- [🟠 **Audio Guide (2 of 3): Project Initialization**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_2.mp3)  
+- [🔵 **Audio Guide (3 of 3): Repeatable Workflow**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_3.mp3)  
+
+**Note:** These audio guides are **completely optional** and **not necessarily recommended**. The **written instructions are required** and provide the most detail.  
+Use the audio as a **supplemental tool** if you find it helpful.
+
+## OPTIONAL: Share Feedback
+
+Feel free to ask questions in the [GitHub Discussions](https://github.com/denisecase/pro-analytics-01/discussions) or raise a [GitHub Issue](https://github.com/denisecase/pro-analytics-01/issues) if you have suggestions or need additional clarification. 

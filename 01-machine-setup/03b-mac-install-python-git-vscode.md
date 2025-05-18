@@ -71,6 +71,3 @@ pyenv install 3.11.11
 
 ![Python Install Certificates Screenshot](images/mac-python-install-certs.png)
 
----
-
-[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)

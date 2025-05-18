@@ -5,20 +5,6 @@ These tasks are typically performed once when setting up a new machine or upgrad
 
 ---
 
-## Listen to the Audio Guide  
-If you prefer listening **while following the written steps below**, try the audio podcast.
-[Download](https://raw.githubusercontent.com/denisecase/pro-analytics-01/main/01-machine-setup/audio/Pro_Python_Setup_and_Workflow_Part1of3_SetUpMachine.mp3) or learn more at [AUDIO.md](./AUDIO.md).
-
-To play in your browser, [click here](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html).
-Audio controls only work when viewed in GitHub Pages.
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/denisecase/pro-analytics-01/main/01-machine-setup/audio/Pro_Python_Setup_and_Workflow_Part1of3_SetUpMachine.mp3" type="audio/mpeg">
-  Audio controls not supported. Try clicking the GitHub Pages in the line above. 
-</audio>
-
----
-
 ## Steps for Machine Setup
 
 1. **Enable file extensions** and **view hidden files and folders** for your operating system:  
@@ -62,4 +48,4 @@ Audio controls only work when viewed in GitHub Pages.
 
 ---
 
-[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
+[🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)

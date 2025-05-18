@@ -80,5 +80,4 @@ These languages and formats appear throughout data analytics from early scripts 
 
 ---
 
-[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
-
+[🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)

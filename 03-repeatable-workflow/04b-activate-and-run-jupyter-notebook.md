@@ -73,6 +73,3 @@ Keep your notebooks organized and execute them fully before running git add-comm
 - Use numbered second-level headings to organize your work.
 - Document your process and steps in the notebook and tell a story with data. 
 
----
-
-[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

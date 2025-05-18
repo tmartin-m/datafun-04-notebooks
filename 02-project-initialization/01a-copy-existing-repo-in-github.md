@@ -14,6 +14,3 @@ This page provides instructions to copy an existing repository in GitHub.
 5. Make it public.
 6. Complete the process as needed to create repository from template or confirm the fork.
 
----
-
-[🟠 Back to Part 2 Home](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html) | [🔗 View Part 2 on GitHub](https://github.com/denisecase/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)
