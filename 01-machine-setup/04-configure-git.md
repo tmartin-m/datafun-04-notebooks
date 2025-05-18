@@ -34,3 +34,8 @@ git config --list
 Verify that the last command correctly shows your user.name and user.email. 
 If not, repeat the installation and configuration until successful.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

@@ -35,3 +35,6 @@ git push
 
 Experience comes from executing these commands frequently after making useful changes to a project. 
 
+---
+
+[🟠 Continue with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)

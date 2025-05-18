@@ -3,8 +3,7 @@
 This section provides step-by-step instructions to initialize a new Python project. 
 These tasks include starting a project from scratch or using an existing template, setting up the project files, and creating a project virtual environment for development.
 
-**IMPORTANT**: Complete all of Part 1 first:
-1. [🟢 Set up the Machine](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)
+**IMPORTANT**: Complete all of Part 1 first: [🟢 Set up the Machine](../01-machine-setup/MACHINE-SETUP.md)
 
 ---
 
@@ -44,4 +43,4 @@ For best results, view the written guide and commands while listening.
 
 ---
 
-[🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)
+After completing and verifying Part 2, go [🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)

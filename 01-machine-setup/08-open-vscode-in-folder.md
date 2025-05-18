@@ -112,3 +112,8 @@ Make sure your version commands show numbers and your config lists your user.nam
 If not, return to the instructions and redo the tasks until success. 
 You need these tools installed and configured to complete the projects. 
 
+---
+
+[🟢 Finished with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

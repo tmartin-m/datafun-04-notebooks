@@ -27,3 +27,8 @@ brew update
 brew --version
 ```
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

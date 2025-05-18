@@ -62,3 +62,7 @@ pyenv install 3.11.11
 Note: py --version and python --version and python3 --version may or may not work and may return different versions depending on which order they were installed, system path settings, and more. 
 We can specify the desired Python version when creating a project virtual environment in the next workflow.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+

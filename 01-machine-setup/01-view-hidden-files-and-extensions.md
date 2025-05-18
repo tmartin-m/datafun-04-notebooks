@@ -44,4 +44,7 @@ On Windows:
     - File name extensions.
     - Hidden items.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
 

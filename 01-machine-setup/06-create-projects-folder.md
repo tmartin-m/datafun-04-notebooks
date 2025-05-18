@@ -36,4 +36,9 @@ Important
 - Verify the folder is directly in your Home folder (~/Repos), not inside another folder like Documents or Desktop.
 - Optional: Ensure this folder is NOT being backed up by iCloud if you have iCloud syncing enabled for your Desktop or Documents. To check: Go to System Settings > Apple ID > iCloud > iCloud Drive > Options and ensure "Desktop & Documents Folders" is unchecked.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+
 

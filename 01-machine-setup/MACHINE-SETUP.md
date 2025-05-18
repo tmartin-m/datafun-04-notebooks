@@ -48,4 +48,4 @@ These tasks are typically performed once when setting up a new machine or upgrad
 
 ---
 
-[🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)
+After completing and verifying Part 1, go [🏠 Back to Home](https://github.com/denisecase/pro-analytics-01)

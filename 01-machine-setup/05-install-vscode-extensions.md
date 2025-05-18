@@ -42,3 +42,8 @@ After installing, restart VS Code and verify that the extensions appear in the E
 - Additional extensions may be helpful depending on the project.
 - When VS Code recommends an extension, it is usually a good idea to try it.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

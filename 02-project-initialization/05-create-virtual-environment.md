@@ -63,3 +63,6 @@ pyenv local 3.11.11
 python3 -m venv .venv
 ```
 
+---
+
+[🟠 Finished with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)

@@ -25,3 +25,6 @@ The command works in PowerShell, bash, zsh, Git Bash, and more.
 git clone https://github.com/youraccount/yourrepo
 ```
 
+---
+
+[🟠 Continue with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)

@@ -17,3 +17,7 @@ apt --version
 
 If you use a different flavor of Linux, install or update your recommended package manager.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+

@@ -33,3 +33,6 @@ Confirm activation by checking that the terminal shows the environment name (e.g
 
 This command is a bit harder to memorize. Use the UP ARROW key to access prior commands in the terminal and keep good notes in your README.md files.
 
+---
+
+[🔵 Continue with Part 3: Repeatable Workflow](REPEATABLE-WORKFLOW.md)

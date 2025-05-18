@@ -6,3 +6,8 @@ There are a large number of features and GitHub (and Git) is widely used in indu
 
 Go to <https://github.com/> and create a new account.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

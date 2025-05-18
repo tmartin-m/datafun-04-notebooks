@@ -82,3 +82,6 @@ If any new external dependencies have been added to any Python scripts, add the 
 - Understand when adding a new external dependency, we must first add it to requirements.txt and re-run the install command. 
 - Record your process and steps in your project README.md as you go. 
 
+---
+
+[🔵 Continue with Part 3: Repeatable Workflow](REPEATABLE-WORKFLOW.md)

@@ -38,3 +38,6 @@ If the repository is created without a README, it will not work the same when cl
 
 ![GitHub: Create New Repo](images/GitHub-Plus-New-Repo.png)
 
+---
+
+[🟠 Continue with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)

@@ -22,3 +22,8 @@ winget --info
 
 When winget is correctly installed, this command will display version information.
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

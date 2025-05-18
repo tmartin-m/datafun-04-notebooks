@@ -14,3 +14,7 @@ This page provides instructions to copy an existing repository in GitHub.
 5. Make it public.
 6. Complete the process as needed to create repository from template or confirm the fork.
 
+---
+
+[🟠 Continue with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)
+

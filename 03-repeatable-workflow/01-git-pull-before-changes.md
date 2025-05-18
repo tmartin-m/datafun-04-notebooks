@@ -28,3 +28,6 @@ Review the output for updates or conflicts.
 If there are conflicts, resolve them before proceeding.
 The best solution to merge conflicts is to AVOID them through a good workflow. 
 
+---
+
+[🔵 Continue with Part 3: Repeatable Workflow](REPEATABLE-WORKFLOW.md)

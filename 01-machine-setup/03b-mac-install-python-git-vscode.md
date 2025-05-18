@@ -71,3 +71,8 @@ pyenv install 3.11.11
 
 ![Python Install Certificates Screenshot](images/mac-python-install-certs.png)
 
+---
+
+[🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)
+
+

@@ -35,3 +35,6 @@ Actual `requirements.txt` contents will vary by project.
 Know how and why we vary the contents.
 Experience comes from working with these files and understanding how to manage them for a project.
 
+---
+
+[🟠 Continue with Part 2: Project Initialization](PROJECT-INITIALIZATION.md)
