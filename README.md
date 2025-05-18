@@ -1,6 +1,6 @@
 # Pro Analytics 01: Setup and Workflow Guide
 
-[![Audio Guide (1 of 3)](https://img.shields.io/badge/Audio%20Guide-1%20of%203-brightgreen)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html)  
+[![Audio Guide (1 of 3)](https://img.shields.io/badge/Audio%20Guide-1%20of%203-brightgreen)](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html)  [![Audio Guide (2 of 3)](https://img.shields.io/badge/Audio%20Guide-2%20of%203-blue)](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html)
 
 This repository provides a clear, concise guide to help set up a machine for Python projects, 
 initialize a new Python project, and follow a repeatable project workflow 
@@ -24,7 +24,7 @@ This section contains **one-time tasks** including:
 ---
 
 ## Second: Initialize a Project
-Go to [02-Project-Initialization](./02-project-initialization/PROJECT-INITIALIZATION.md) when **starting a new project**.
+Go to [02-Project-Initialization](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html) when **starting a new project**.
 
 This section walks you through the steps to either:
 1. Copy an existing project OR start a new project from scratch.
