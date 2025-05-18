@@ -59,3 +59,8 @@ Audio controls only work when viewed in GitHub Pages.
 ## Recommended Video 
 
 - [Watch Python Tutorial for Beginners with VS Code (14 min)﻿](https://www.youtube.com/watch?v=6i3e-j3wSf0)
+
+## pro-analytics-01 Links
+
+- [GitHub Repository](https://github.com/denisecase/pro-analytics-01/)
+- [GitHub Pages Website](https://denisecase.github.io/pro-analytics-01/)
