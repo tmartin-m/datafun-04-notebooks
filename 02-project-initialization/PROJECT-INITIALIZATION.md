@@ -3,8 +3,24 @@
 This section provides step-by-step instructions to initialize a new Python project. 
 These tasks include starting a project from scratch or using an existing template, setting up the project files, and creating a project virtual environment for development.
 
-The steps assume you have already completed:
+Be sure you have successfully completed all of Part 1 first:
 1. [Set up the Machine](../01-machine-setup/MACHINE-SETUP.md)
+
+---
+
+## Listen to the Audio Guide  
+If you prefer listening while following the steps, try the audio podcast.
+[Download](https://raw.githubusercontent.com/denisecase/pro-analytics-01/main/02-project-initialization/audio/Pro_Python_Setup_and_Workflow_Part2of3_Initialize_a_Project.mp3) or learn more at [AUDIO.md](./AUDIO.md).
+
+To play in your browser, [click here](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html).
+Audio controls only work when viewed in GitHub Pages.
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/denisecase/pro-analytics-01/main/02-project-initialization/audio/Pro_Python_Setup_and_Workflow_Part2of3_Initialize_a_Project.mp3" type="audio/mpeg">
+  Audio controls not supported. Try clicking the GitHub Pages in the line above. 
+</audio>
+
+---
 
 ## Steps for Project Initialization
 
@@ -32,6 +48,7 @@ The steps assume you have already completed:
 
 ## Pronounce Key Files Correctly
 
-- When you see `.gitignore` say "Dot Git Ignore" file.
+- When you see `.gitignore`, say "Dot Git Ignore" file.
 - When you see `README.md`, say "READ ME dot MD" file.
-- When you see `requirements.txt` say "Requirements dot TXT" file.
+- When you see `requirements.txt`, say "Requirements dot TXT" file.
+- When you see `.venv`, say "Dot V E N V" folder. 
