@@ -7,7 +7,7 @@ when developing professional Python projects.
 The instructions are divided into three parts.
 
 ## Part 1: Set Up Machine & Sign up for GitHub
-Go to [🟢 Machine Setup (1 of 3)](01-machine-setup/MACHINE-SETUP.md) to prepare for Python projects.
+Go to [🟢 Machine Setup](01-machine-setup/MACHINE-SETUP.md) to prepare for Python projects.
 Start here to set up a machine for the first time (or to upgrade or verify professional tools).
 
 This section contains **one-time tasks** including:
@@ -22,7 +22,7 @@ This section contains **one-time tasks** including:
 ---
 
 ## Part 2: Initialize a Project
-Go to [🟠 Project Initialization (2 of 3)](02-project-initialization/PROJECT-INITIALIZATION.md)  when **starting a new project**.
+Go to [🟠 Project Initialization](02-project-initialization/PROJECT-INITIALIZATION.md)  when **starting a new project**.
 
 This section walks you through the steps to either:
 1. Copy an existing project OR start a new project from scratch.
@@ -34,7 +34,7 @@ This section walks you through the steps to either:
 ---
 
 ## Part 3: Work on the Project Over Time
-Go to [🔵 Repeatable Workflow (3 of 3)](03-repeatable-workflow/REPEATABLE-WORKFLOW.md) for ongoing project development.
+Go to [🔵 Repeatable Workflow](03-repeatable-workflow/REPEATABLE-WORKFLOW.md) for ongoing project development.
 
 This section provides the **repeatable steps** for working on Python projects. 
 These steps are typically followed whenever we make changes to a project. The workflow includes:
