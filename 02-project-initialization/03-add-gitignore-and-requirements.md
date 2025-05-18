@@ -34,3 +34,7 @@ Actual `requirements.txt` contents will vary by project.
 **IMPORTANT**: Read through the files - try to understand the purpose of these files. 
 Know how and why we vary the contents.
 Experience comes from working with these files and understanding how to manage them for a project.
+
+---
+
+[🟠 Back to Part 2 Home](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html) | [🔗 View Part 2 on GitHub](https://github.com/denisecase/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)

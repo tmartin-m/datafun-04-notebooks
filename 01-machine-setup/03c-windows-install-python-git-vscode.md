@@ -62,3 +62,6 @@ Your version will likely be newer, but remember to check the box to add Python t
 ![Important: Add Python to Path](images/windows_add_python_to_path.png)
 
 ---
+
+[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)
+

@@ -50,15 +50,19 @@ First, see the machine setup instructions to install additional versions of Pyth
 Then, specify the required version when creating the virtual environment. 
 For example:
 
-### On Windows, Use PowerShell (not cmd)
+### On Windows, Use PowerShell (NOT cmd)
 
 ```powershell
 py -3.11 -m venv .venv
 ```
 
-### On Mac/Linux, Use zsh or bash
+### On Mac/Linux, Use Default Terminal (e.g., zsh or bash)
 
-```
+```shell
 pyenv local 3.11.11
 python3 -m venv .venv
 ```
+
+---
+
+[🟠 Back to Part 2 Home](https://denisecase.github.io/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.html) | [🔗 View Part 2 on GitHub](https://github.com/denisecase/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)

@@ -34,3 +34,7 @@ git push
 ## Experience
 
 Experience comes from executing these commands frequently after making useful changes to a project. 
+
+---
+
+[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

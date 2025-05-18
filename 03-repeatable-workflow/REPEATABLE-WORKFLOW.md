@@ -4,8 +4,8 @@ This section provides step-by-step instructions for working on an existing Pytho
 These steps are repeatable and should be followed whenever you make changes, update dependencies, or work on project features.
 
 **IMPORTANT**: Complete all of Part 1 and Part 2 first:
-1. [Set up the Machine](../01-machine-setup/MACHINE-SETUP.md)
-2. [Initialized a new Project](../02-project-initialization/PROJECT-INITIALIZATION.md)
+1. [🟢 Set up Machine](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)
+2. [🟠 Initialize a Project](https://github.com/denisecase/pro-analytics-01/02-project-initialization/PROJECT-INITIALIZATION.md)
 
 ---
 

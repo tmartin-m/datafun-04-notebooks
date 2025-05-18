@@ -105,7 +105,9 @@ git config --list
 ```
 
 Make sure your version commands show numbers and your config lists your user.name and user.email.
-If not, return to the instructions and recomplete the tasks until success. 
+If not, return to the instructions and redo the tasks until success. 
 You need these tools installed and configured to complete the projects. 
 
+---
 
+[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)

@@ -57,3 +57,6 @@ For example, it's common to add in matplotlib or seaborn once we have interestin
 Learn how and when to add external dependencies to requirements.txt and repeat this process as needed to make use of the powerful free ecosystem for Python projects. 
 Explore popular external packages like requests and more to see why they get used. 
 
+---
+
+[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

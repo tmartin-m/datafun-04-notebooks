@@ -72,6 +72,11 @@ python3 demo-script.py
 If any new external dependencies have been added to any Python scripts, add the external dependencies to requirements.txt and re-run the install dependencies process first. 
 
 ## Experience
-Understand why the virtual environment must be activated first. 
-Understand when adding a new external dependency, we must first add it to requirements.txt and re-run the install command. 
-Record your process and steps in your project README.md as you go. 
+
+- Understand why the virtual environment must be activated first. 
+- Understand when adding a new external dependency, we must first add it to requirements.txt and re-run the install command. 
+- Record your process and steps in your project README.md as you go. 
+
+---
+
+[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

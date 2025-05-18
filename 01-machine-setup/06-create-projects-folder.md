@@ -35,3 +35,7 @@ Important
 - Capitalize the "R" in Repos as programming is case-sensitive. 
 - Verify the folder is directly in your Home folder (~/Repos), not inside another folder like Documents or Desktop.
 - Optional: Ensure this folder is NOT being backed up by iCloud if you have iCloud syncing enabled for your Desktop or Documents. To check: Go to System Settings > Apple ID > iCloud > iCloud Drive > Options and ensure "Desktop & Documents Folders" is unchecked.
+
+---
+
+[🟢 Back to Part 1 Home](https://denisecase.github.io/pro-analytics-01/01-machine-setup/MACHINE-SETUP.html) | [🔗 View Part 1 on GitHub](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)

@@ -27,3 +27,7 @@ Once configured, you might find that a shorter version works as well: `git pull`
 Review the output for updates or conflicts. 
 If there are conflicts, resolve them before proceeding.
 The best solution to merge conflicts is to AVOID them through a good workflow. 
+
+---
+
+[🔵 Back to Part 3 Home](https://denisecase.github.io/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.html) | [🔗 View Part 3 on GitHub](https://github.com/denisecase/pro-analytics-01/03-repeatable-workflow/REPEATABLE-WORKFLOW.md)

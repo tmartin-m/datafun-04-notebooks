@@ -4,7 +4,7 @@ This section provides step-by-step instructions to initialize a new Python proje
 These tasks include starting a project from scratch or using an existing template, setting up the project files, and creating a project virtual environment for development.
 
 **IMPORTANT**: Complete all of Part 1 first:
-1. [Set up the Machine](../01-machine-setup/MACHINE-SETUP.md)
+1. [🟢 Set up the Machine](https://github.com/denisecase/pro-analytics-01/01-machine-setup/MACHINE-SETUP.md)
 
 ---
 
@@ -49,8 +49,8 @@ Audio controls only work when viewed in GitHub Pages.
 ## Pronounce Key Files and Folders Correctly
 
 - When you see `.gitignore`, say "Dot Git Ignore" file.
-- When you see `README.md`, say "READ ME Dot MD" file.
-- When you see `requirements.txt`, say "Requirements Dot TXT" file.
+- When you see `README.md`, say "READ ME Dot M D" file.
+- When you see `requirements.txt`, say "Requirements Dot T X T" file.
 - When you see `.venv`, say "Dot V E N V" folder.
 
 NOTE: The auto-generated audio guide gets these correct some of the time, but not all. 
