@@ -54,7 +54,6 @@ Follow these steps when starting a new work session on a professional Python pro
 - Test your project to ensure it works as expected before using git add-commit-push.
 - Make frequent commits when enhancing a project.
 
-## pro-analytics-01 Links
+---
 
-- [GitHub Repository](https://github.com/denisecase/pro-analytics-01/)
-- [GitHub Pages Website](https://denisecase.github.io/pro-analytics-01/)
+[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
