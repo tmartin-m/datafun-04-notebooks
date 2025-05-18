@@ -116,18 +116,11 @@ git push -u origin main
 
 ## OPTIONAL: Listen to the Audio Guides
 
-If you prefer listening **while following the written steps above**, optional audio guides are available. These are **AI-generated two-person podcasts**.
+If you prefer listening **while following the written steps above**, optional [**Audio Guides**](https://denisecase.github.io/pro-analytics-01-audio-guides/) are available. These are **AI-generated two-person podcasts**.
 
 The audio is **supplementary** and **not a replacement for the written instructions**.
-It may be distracting, and the speakers may mispronounce key files and commands.
-These are mostly interesting from a state-of-the-art perspective.
-
-- [🟢 **Audio Guide (1 of 3): Machine Setup**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_1.mp3)  
-- [🟠 **Audio Guide (2 of 3): Project Initialization**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_2.mp3)  
-- [🔵 **Audio Guide (3 of 3): Repeatable Workflow**](https://github.com/denisecase/pro-analytics-01-audio-guides/blob/main/audio_guide_3.mp3)  
-
-**Note:** These audio guides are **completely optional** and **not necessarily recommended**. The **written instructions are required** and provide the most detail.  
-Use the audio as a **supplemental tool** if you find it helpful.
+The guides are not necessarily recommended. They may be distracting, and the speakers mispronounce key files and commands.
+They are mostly interesting from a state-of-the-art perspective.
 
 ## OPTIONAL: Share Feedback
 
