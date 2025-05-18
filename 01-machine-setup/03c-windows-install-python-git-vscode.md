@@ -1,4 +1,4 @@
-# 03-windows-install-python-git-vscode.md
+# 🟢 03-windows-install-python-git-vscode.md
 
 This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a Windows machine using **official installers**.  
 These tools are essential for professional data analytics.

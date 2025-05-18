@@ -1,4 +1,4 @@
-# 03-install-dependencies.md
+# 🔵 03-install-dependencies.md
 
 This page explains how to install external dependencies for a Python project. 
 

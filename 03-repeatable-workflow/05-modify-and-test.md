@@ -1,4 +1,4 @@
-# 05-modify-and-test.md
+# 🔵 05-modify-and-test.md
 
 When working on a project always open that project repository folder in VS Code.
 In general, all terminal commands should be executed in the **root project folder**.  

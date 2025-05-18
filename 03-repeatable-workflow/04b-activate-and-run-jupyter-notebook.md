@@ -1,8 +1,13 @@
-# 04b-activate-and-run-jupyter-notebook.md
+# 🔵 04b-activate-and-run-jupyter-notebook.md
 
 This page explains how to run Jupyter notebooks in VS Code. When we execute code in a Jupyter notebook, the kernel runs the code interactively, allowing us to test, visualize, and document our analysis step by step.
 
-A notebook is a web based interactive environment commonly used for exploratory data analysis (EDA) and more. 
+A notebook is a web based interactive environment commonly used for exploratory data analysis (EDA) and more.
+
+## Important Note
+
+Use this only when your project uses **Jupyter notebook (`.ipynb`)** files. 
+If your project only uses Python script (`.py`) files, you will not need this. 
 
 ## Before Starting
 

@@ -1,4 +1,4 @@
-# 02-clone-repo-to-local.md
+# 🟠 02-clone-repo-to-local.md
 
 This page provides instructions to copy a GitHub repository to a local machine.
 

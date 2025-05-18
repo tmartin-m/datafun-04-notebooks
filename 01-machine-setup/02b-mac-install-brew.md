@@ -1,4 +1,4 @@
-# 02-mac-install-brew.md
+# 🟢 02-mac-install-brew.md (OPTIONAL)
 
 This page provides instructions to install or verify the Homebrew package manager on a macOS machine.
 

@@ -1,4 +1,4 @@
-# 03-linux-install-python-git-vscode.md
+# 🟢 03-linux-install-python-git-vscode.md
 
 This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a **Linux** machine using standard package managers.  
 These tools are essential for professional data analytics.

@@ -1,4 +1,4 @@
-# Part 2: Project Initialization
+# 🟠 Part 2: Project Initialization
 
 This section provides step-by-step instructions to initialize a new Python project. 
 These tasks include starting a project from scratch or using an existing template, setting up the project files, and creating a project virtual environment for development.
@@ -28,16 +28,16 @@ Audio controls only work when viewed in GitHub Pages.
    - [01a-copy-existing-repo-in-github.md](01a-copy-existing-repo-in-github.md)  
    - [01b-create-repo-in-github.md](01b-create-repo-in-github.md)
 
-2. ALWAYS Use Git to clone the new repository to your local machine:  
+2. ALWAYS Use Git to **clone** the new repository to your local machine:  
    - [02-clone-repo-to-local.md](02-clone-repo-to-local.md)
 
-3. *IF starting from scratch only*: Add files such as `.gitignore` and `requirements.txt`:  
+3. *IF starting from scratch only*: Add key files such as `.gitignore` and `requirements.txt`:  
    - [03-add-gitignore-and-requirements.md](03-add-gitignore-and-requirements.md)
 
 4. *IF starting from scratch only*: Use Git to add, commit, and push your new files to GitHub:  
    - [04-git-add-commit-push.md](04-git-add-commit-push.md)
 
-5. ALWAYS Create a Local Python Virtual Environment for your project:  
+5. ALWAYS **Create a Python Virtual Environment** for your project:  
    - [05-create-virtual-environment.md](05-create-virtual-environment.md)
 
 ## Important

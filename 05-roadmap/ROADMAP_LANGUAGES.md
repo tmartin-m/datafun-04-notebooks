@@ -8,75 +8,77 @@ These languages and formats appear throughout data analytics from early scripts 
 
 ## Documentation & Communication
 
-- [ ] **Markdown** – Format notes, README files, and Jupyter content
-- [ ] **reStructuredText** – Used in Sphinx and documentation tools (optional)
-- [ ] **LaTeX** – ("la-TECH") Used in academic writing
+- [ ] **Markdown** - Format notes, README files, Jupyter content, Sphinx reports
+- [ ] **LaTeX** - ("la-TECH") Used in academic writing
 
 ---
 
 ## Programming & Scripting
 
-- [ ] **Python** – Main language for data analytics, ML, BI, and automation
-- [ ] **Excel (Formulas + Functions)** – Ubiquitous tool for tabular analysis, logic, and data prep. Often the first language used by analysts; includes formulas, pivot tables, and functions.
-- [ ] **PowerShell** – Powerful cross-platform scripting tool for automation
-- [ ] **Bash / Shell** – Command-line scripting for Linux/macOS/WSL workflows
-- [ ] **R** – Widely used in statistics and data visualization (optional)
+- [ ] **Python** - Main language for data analytics, ML, BI, and automation
+- [ ] **Excel (Formulas + Functions + Python)** - Excel now supports Python natively, allowing for more powerful data analysis and visualization directly in Excel workbooks. This integration is replacing many VBA-based tasks with modern, scalable Python scripts.
+- [ ] **PowerShell** - Powerful cross-platform scripting tool for automation
+- [ ] **Bash / Shell** - Command-line scripting for Linux/macOS/WSL workflows
+- [ ] **R** - Optional, mainly for heavy statistical modeling and some legacy analytics projects
 
 ---
 
 ## Query & Data Definition
 
-- [ ] **SQL** – Essential for querying, joining, and aggregating data in relational databases
-- [ ] **DuckDB SQL** – SQL syntax for modern in-process analytics engines
-- [ ] **NoSQL / MongoDB Query Language** – Used in document databases (for comparison)
-- [ ] **Graph Query Languages (Cypher / GQL)** – Query network/graph data in tools like Neo4j or TigerGraph
+- [ ] **SQL** - Essential for querying, joining, and aggregating data in relational databases
+- [ ] **DuckDB SQL** - Great for local analytics and in-process querying (becoming increasingly popular)
+- [ ] **NoSQL / MongoDB Query Language** -  Optional, mainly for document-based storage
+- [ ] **Graph Query Languages (Cypher / GQL)** - Optional unless working specifically with graph databases like Neo4j or TigerGraph
 
 ---
 
 ## Data Formats & Configuration
 
-- [ ] **CSV / TSV** – Common text-based data formats for tabular data
-- [ ] **JSON** – Lightweight data format used in APIs, configs, and logs
-- [ ] **YAML** – Readable format for configuration (e.g., workflows, Docker, CI/CD)
-- [ ] **Parquet** – Columnar format for big data (used in Spark, DuckDB, etc.)
-- [ ] **Pickle (.pkl)** – Python-specific binary format for saving/loading objects (use with caution; not human-readable or cross-language)
+- [ ] **CSV / TSV** - Common text-based data formats for tabular data
+- [ ] **JSON** - Lightweight data format used in APIs, configs, and logs
+- [ ] **YAML** - Common in configuration files (e.g., workflows, Docker, CI/CD)
+- [ ] **Parquet** -  Essential for big data work and columnar storage (used in Spark, DuckDB, etc.)
+- [ ] **Pickle (.pkl)** - Python-specific binary format for saving/loading objects (use with caution; not human-readable or cross-language - Parquet or JSON preferred)
 
 ---
 
 ## Web, Text, and App Interfaces
 
-- [ ] **HTML** – Structure for web content and dashboard layouts
-- [ ] **CSS** – Styling for web content (limited use in dashboards or visual apps)
-- [ ] **JavaScript** – Interactive behavior in web dashboards or NLP front ends (optional)
+- [ ] **HTML** - Essential for dashboards, Flask, and web-based reporting
+- [ ] **CSS** - Optional, mainly for web-based visual customization
+- [ ] **JavaScript** - Optional, unless customizing interactive visualizations or web dashboards
+- [ ] **Streamlit** - User-friendly tool for creating quick, interactive UIs for data projects. Minimal code, fast deployment.
+- [ ] **Dash** - More customizable than Streamlit, ideal for complex web applications with deeper HTML integration.
+- [ ] **PyShiny** - A Python port of R's Shiny, allows for reactive, event-driven UIs without frontend coding. Great for interactive dashboards.
 
 ---
 
 ## Machine Learning & AI
 
-- [ ] **Python with scikit-learn syntax** – For ML models, pipelines, and preprocessing
-- [ ] **TensorFlow / PyTorch code syntax** – Deep learning frameworks
-- [ ] **ONNX / SavedModel formats** – Model export formats for sharing ML models
+- [ ] **Python with scikit-learn** - Core for data science and machine learning
+- [ ] **TensorFlow / PyTorch code syntax** - For deep learning projects
+- [ ] **ONNX / SavedModel formats** - For sharing ML models and deploying models in production environments
+- [ ] **LangChain** - A modern framework for building applications with LLMs (Large Language Models). It enables advanced text processing, conversational AI, and document-based search.
 
 ---
 
 ## Streaming & Web Mining
 
-- [ ] **Kafka message formats (JSON, Avro)** – For real-time data pipelines
-- [ ] **Scrapy / BeautifulSoup syntax** – Python-based tools for web scraping
-- [ ] **Regex** – Used across NLP, web scraping, and data cleaning
+- [ ] **Kafka message formats (JSON, Avro)** - For real-time streaming analytics
+- [ ] **Scrapy / BeautifulSoup** - Python-based tools for web scraping
+- [ ] **Regex** - Critical for text mining and data cleaning
+- [ ] **Fugue** - Extends native Python, Pandas, and SQL code to distributed computing (Spark, Dask).
+- [ ] **Prefect** - Modern workflow orchestration tool for scheduling, monitoring, and error handling in data pipelines. Simplifies scheduling, retries, and logging for ETL and ELT processes.
 
+---
 
 ## BI & Automation Expression Languages
 
-- [ ] **VBA (Visual Basic for Applications)** – Macro language for automating tasks in Excel and other Office tools  
-  _Useful for building custom functions, automating reports, and interacting with Excel objects._
-
-- [ ] **DAX (Data Analysis Expressions)** – Power BI’s formula language for dynamic measures and filters  
-  _Essential for calculating KPIs, filtering visuals, and building responsive dashboards._
-
-- [ ] **Power Query M** – Functional language used in Power BI and Excel's Power Query  
-  _Used to clean, shape, and transform data visually or with custom expressions._
-
-
+- [ ] **VBA (Visual Basic for Applications)** - Legacy; still useful but diminishing. Python in Excel is replacing many use cases.
+- [ ] **DAX (Data Analysis Expressions)** - Critical for Power BI, measures, and complex filters
+- [ ] **Power Query M** - Essential for data transformation in Power BI and Excel
 
 ---
+
+[🏠 Back to Home](https://denisecase.github.io/pro-analytics-01/) | [🔗 View on GitHub](https://github.com/denisecase/pro-analytics-01)
+

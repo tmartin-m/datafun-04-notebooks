@@ -1,4 +1,4 @@
-# 06-git-add-commit-push.md
+# 🔵 06-git-add-commit-push.md
 
 This page provides instructions to add files to version control, commit changes, and push them to your remote repository.
 

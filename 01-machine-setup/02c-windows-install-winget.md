@@ -1,4 +1,4 @@
-# 02-windows-install-winget.md
+# 🟢 02-windows-install-winget.md (OPTIONAL)
 
 This page provides instructions to install or verify the Windows Package Manager (winget) on a Windows machine.
 

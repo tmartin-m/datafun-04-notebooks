@@ -1,4 +1,4 @@
-# 01-git-pull-before-changes.md
+# 🔵 01-git-pull-before-changes.md
 
 Before making any changes to a project, ALWAYS pull the latest changes from the remote repository on GitHub. Keep both locations up-to-date and in sync. 
 

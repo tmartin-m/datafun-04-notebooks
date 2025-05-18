@@ -1,7 +1,12 @@
-# 04a-activate-and-run-python-script.md
+# 🔵 04a-activate-and-run-python-script.md
 
-This page explains how to run a Python file in VS Code. 
-When we run a Python file directly, we run it as a Python script. Scripts are useful for clear, modular code that we can import into other files and/or schedule to run on a regular basis. 
+This page explains how to run a Python file (`.py`) in VS Code. 
+When we run a Python file directly, we run it as a Python script. Scripts are useful for clear, modular code that we can import into other files and/or schedule to run on a regular basis.
+
+## Important Note
+
+Use this only when your project runs **Python script (`.py`)** files. 
+If your project only has Jupyter notebooks (`.ipynb`) files, you will not need this. 
 
 ## Before Starting
 

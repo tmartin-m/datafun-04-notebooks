@@ -1,4 +1,4 @@
-# 06-create-projects-folder.md
+# 🟢 06-create-projects-folder.md
 
 ## Windows Users
 For Windows machines with OneDrive enabled, the `Documents` folder is NOT ideal for our GitHub projects. 

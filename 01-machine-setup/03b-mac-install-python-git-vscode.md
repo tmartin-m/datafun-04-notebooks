@@ -1,4 +1,4 @@
-# 03b-mac-install-python-git-vscode.md
+# 🟢 03-mac-install-python-git-vscode.md
 
 This page provides instructions to install or verify **Python**, **Git**, and **Visual Studio Code** on a Mac using **official installers**.  
 These tools are essential for professional data analytics.

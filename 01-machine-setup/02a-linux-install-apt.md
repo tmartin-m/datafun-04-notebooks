@@ -1,4 +1,4 @@
-# 02-linux-install-apt.md
+# 🟢 02-linux-install-apt.md (OPTIONAL)
 
 This page provides instructions to install or verify the apt package manager on a Linux machine or when using Windows Subsystem for Linux (WSL). 
 

@@ -1,4 +1,4 @@
-# 05-create-virtual-environment.md
+# 🟠 05-create-virtual-environment.md
 
 This page provides instructions to create a place in your project repository folder that will hold the Python virtual environment for the project. 
 It provides an isolated Python environment for the project, so we don't mess up the global Python used by our machine. 

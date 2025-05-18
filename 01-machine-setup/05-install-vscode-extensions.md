@@ -1,4 +1,4 @@
-# 05-install-vscode-extensions.md
+# 🟢 05-install-vscode-extensions.md
 
 This page provides instructions to install common Visual Studio Code (VS Code) extensions for Python development.
 

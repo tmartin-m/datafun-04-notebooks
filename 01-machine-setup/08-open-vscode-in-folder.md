@@ -1,7 +1,12 @@
-# 08-open-vscode-in-folder.md
+# 🟢 08-open-vscode-in-folder.md
 
 Now, we use our new tools to verify our setup.
 Be sure you have completed all earlier steps successfully and you have a `Repos` folder that is not automatically synced.
+
+## Critical Note: We Only Use the `Repos` Folder This One Time
+We are opening the Repos folder in VS Code just this once—to verify our setup.
+After 🟠 Part 2, we will work in specific project folders within Repos.
+Think of this as a **one-time health check** before we move on.
 
 ## VS Code Editor is Folder-based / Project-based 
 
@@ -14,12 +19,11 @@ If we open VS Code without opening a folder, many features may not work as expec
 - Git integration may fail to activate
 
 **Always start by opening a folder in VS Code.** 
-In this course, that will usually be a project folder inside the `Repos` folder.
-We may not have any GitHub project repos yet, so we'll work in the `Repos` folder for now. 
+In this course, that will usually be a project folder inside the `Repos` folder (once we create on in Part 2).
 
 ---
 
-## Open VS Code in Your Repos Folder
+## Verify: Open VS Code in Your `Repos` Folder
 
 ### Option 1 (Graphical):
 
@@ -75,14 +79,14 @@ This ensures that the terminal has a default folder to open in—even when VS Co
 
 ---
 
-## Professional Practice: Always Open a Folder First
+## Professional Practice: Always Open the Project Folder
 
-Whenever you start working, make sure you open the correct project folder inside your `Repos` directory. This ensures that:
-
-- The terminal opens correctly
-- Git works properly
-- Python environments are detected
-- VS Code features behave as expected
+- Important: After Part 2, **only open project folders**, not `Repos`.
+- Examples: `pro-analytics-01`, `data-prep-01`, `my-analysis-project`.
+- This ensures:
+    - The terminal opens correctly
+    - Git works properly
+    - Python environments are detected
 
 ---
 

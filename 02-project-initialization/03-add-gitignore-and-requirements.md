@@ -1,4 +1,4 @@
-# 03-add-gitignore-and-requirements.md
+# 🟠 03-add-gitignore-and-requirements.md
 
 This page provides instructions to add common files to a new project repository. 
 

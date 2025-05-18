@@ -1,4 +1,4 @@
-# Part 3: Repeatable Project Workflow
+# 🔵 Part 3: Repeatable Project Workflow
 
 This section provides step-by-step instructions for working on an existing Python project. 
 These steps are repeatable and should be followed whenever you make changes, update dependencies, or work on project features.
@@ -27,25 +27,24 @@ Audio controls only work when viewed in GitHub Pages.
 
 Follow these steps when starting a new work session on a professional Python project.
 
-1. Pull the Latest Changes from GitHub. 
+1. **Pull** the Latest Changes from GitHub. 
    - [01-git-pull-before-changes.md](01-git-pull-before-changes.md)
 
-2. Activate the Project Virtual Environment:
+2. **Activate** the Project Virtual Environment:
    - [02-activate-virtual-environment.md](02-activate-virtual-environment.md)
 
-3. Install Dependencies As Needed:
+3. **Install** Dependencies As Needed:
    - [03-install-dependencies.md](03-install-dependencies.md)
 
-4. Run Scripts and/or Jupyter notebooks. Choose one or both as needed:  
+4. **Run** Scripts and/or Jupyter notebooks. Choose one or both as needed:  
    - [04a-activate-and-run-python-script.md](04a-activate-and-run-python-script.md)  
    - [04b-activate-and-run-jupyter-notebook.md](04b-activate-and-run-jupyter-notebook.md)
 
-5. Modify code and test functionality:
+5. **Modify** code and test functionality:
    - [05-modify-and-test.md](05-test-and-make-changes.md)
 
-6. Save your work with git add-commit-push to GitHub: 
+6. **Save** your work with git add-commit-push to GitHub: 
    - [06-git-add-commit-push.md](06-git-add-commit-push.md)
-
 
 
 ## Important

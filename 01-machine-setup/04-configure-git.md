@@ -1,4 +1,4 @@
-# 04-configure-git.md
+# 🟢 04-configure-git.md
 
 After installing Git, configure the global user.name and user.email. 
 
