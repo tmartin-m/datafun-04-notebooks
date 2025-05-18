@@ -29,3 +29,9 @@ The steps assume you have already completed:
 - Initialize your project correctly to avoid issues later.
 - Follow the steps carefully and in order.
 - For projects that use templates or examples, review the project first and understand the starting structure.
+
+## Pronounce Key Files Correctly
+
+- When you see `.gitignore` say "Dot Git Ignore" file.
+- When you see `README.md`, say "READ ME dot MD" file.
+- When you see `requirements.txt` say "Requirements dot TXT" file.
