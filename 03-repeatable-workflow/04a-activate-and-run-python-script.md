@@ -1,20 +1,15 @@
 # 🔵 04a-activate-and-run-python-script.md
 
-This page explains how to run a Python file (`.py`) in VS Code. 
-When we run a Python file directly, we run it as a Python script. Scripts are useful for clear, modular code that we can import into other files and/or schedule to run on a regular basis.
-
-## Important Note
-
-Use this only when your project runs **Python script (`.py`)** files. 
-If your project only has Jupyter notebooks (`.ipynb`) files, you will not need this. 
+How to run a Python file (`.py`) in VS Code. 
+For Jupyter notebooks (.ipynb), you don’t need these steps.
 
 ## Before Starting
 
-Open your project repository folder in VS Code. 
-Open a terminal. 
-We must activate the .venv - if you've already done so, you don't need to rerun that command. 
+- Open your project repository folder in VS Code. 
+- Open a terminal. 
+- If .venv is not active, activate the virtual environment (.venv).
+- If external dependencies have not been installed, install them. 
 
-We must have installed all the external dependencies needed for our project to run into the virtual environment first. 
 
 ## Task 1. Select VS Code Interpreter
 
@@ -24,10 +19,9 @@ To set the VS Code Interpreter:
 
 1. Open the Command Palette: Press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
 2. Search for "Python: Select Interpreter":
-3. Type Python: Select Interpreter in the Command Palette search bar and select it from the dropdown.
-4. Choose an Interpreter - A list of available Python environments will appear. Look for the local .venv option.
-5. Once selected, check the Python version displayed 
-  in the bottom-left corner of the VS Code window in the status bar.
+3. Type **Python: Select Interpreter** in the Command Palette search bar and select it from the dropdown.
+4. Choose an Interpreter - A list of available Python environments will appear. Look for the recommended local .venv option.
+5. Check the Python version shown in the lower-left status bar.
 
 
 ### Making Changes / Saving
@@ -35,10 +29,10 @@ To set the VS Code Interpreter:
 Now we can get help from the VS Code editor while working on the Python code files. 
 
 After making changes, run the file to verify following the steps below.
-Save your files periodically to avoid losing progress - or make sure the File / Autosave option is on. 
+Save your files periodically to avoid losing progress - or ensure VS Code  **File / Autosave** option is on. 
 
 
-## Windows Task 2: Activate/Execute
+## Windows Task 2: Activate and Execute
 
 1. Ensure .venv is active. If active, you don't need to rerun the activate command.
 2. Run the file. 
@@ -51,7 +45,7 @@ The commands work in PowerShell.
 
 ```powershell
 .\.venv\Scripts\activate
-py myfile.py
+python myfile.py
 ```
 
 
@@ -72,15 +66,16 @@ python3 demo-script.py
 ```
 
 
-## AS-NEEDED: New External Dependencies
+## AS-NEEDED: Add New External Dependencies
 
-If any new external dependencies have been added to any Python scripts, add the external dependencies to requirements.txt and re-run the install dependencies process first. 
+As you work, you may identify additional packages you want to use in your project. 
+Add each package to requirements.txt and re-run the install dependencies process first. 
 
 ## Experience
 
 - Understand why the virtual environment must be activated first. 
 - Understand when adding a new external dependency, we must first add it to requirements.txt and re-run the install command. 
-- Record your process and steps in your project README.md as you go. 
+- Record your process and steps in your project README.md. 
 
 ---
 
