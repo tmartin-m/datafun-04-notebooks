@@ -190,6 +190,12 @@ ipykernel
 # Interactive widgets (often used in notebooks).
 ipywidgets
 
+# tool for “diffing” and merging of Jupyter Notebooks
+nbdime
+
+# a JupyterLab extension for version control using git
+jupyterlab-git
+
 # ======================================================
 # EXCEL FILE READING AND WRITING
 # ======================================================
