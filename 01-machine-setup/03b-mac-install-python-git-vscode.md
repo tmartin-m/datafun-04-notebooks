@@ -26,6 +26,7 @@ After restarting, open a new Terminal and run the following commands to verify.
 python3 --version
 pip3 --version
 git --version
+code --version
 ```
 
 IMPORTANT: Each command should return a version number.
