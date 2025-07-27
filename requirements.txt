@@ -274,20 +274,23 @@ seaborn
 # KAFKA STREAMING MESSAGE BROKER INTEGRATION
 # ======================================================
 
-# Apache Kafka Python client (~1 MB)
+# Kafka Python client (lightweight, ~1 MB)
+# Supports Kafka 3.5+ with KRaft mode (no ZooKeeper required)
 # kafka-python-ng
 
 # ======================================================
 # STREAM PROCESSING - CAN BE VERY LARGE
 # ======================================================
 
-# Streaming data processing framework (~200-250 MB)
-# Python compatibility varies by Spark version. Check the official documentation.
-# Currently requires Python <3.12, e.g. 3.11
+# PySpark for structured streaming (heavy, 200+ MB)
+# Requires Python < 3.12 (use Python 3.11)
 # pyspark<4.0.0
 
 # Alternative lightweight parallel computing framework
 # dask  
+
+# Optional: streamz for lightweight streaming
+# streamz
 
 # ======================================================
 # MACHINE LEARNING (ML) and STATISTICAL MODELING
