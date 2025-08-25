@@ -23,6 +23,8 @@ On Windows, Use PowerShell (not cmd):
 py -m venv .venv
 ```
 
+If you see: `Could not find platform independent libraries <prefix>` - it is just a notice and doesn't seem to cause any issues. 
+
 ## Mac/Linux Users - Task 1. Create .venv
 
 Run the following command from the project root directory.
