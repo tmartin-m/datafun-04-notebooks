@@ -114,7 +114,19 @@ git commit -m "custom message"
 git push -u origin main
 ```
 
-## OPTIONAL: Listen to the Audio Guides
+---
+
+## OPTIONAL/EXPERIMENTAL: Google NotebookLLM AI-Generated Guides 
+
+AI generated audio, video, summary, and chat for each of the recommended workflows. 
+These AI generated chats should support the recommended workflow. 
+Caution: they are experiemental. Use printed instructions from the repo for best results. 
+
+- [Part 1 of 3: 🟢 Set Up Machine](https://notebooklm.google.com/notebook/79a66e02-deac-42dc-8980-1ce750b76d6a)
+- [Part 2 of 3: 🟠 Project Initialization](https://notebooklm.google.com/notebook/c0b118bc-f1c3-416c-8439-0c2943bcfb26)
+- [Part 3 of 3: 🔵 Repeatable Workflow](https://notebooklm.google.com/notebook/1d1fc2f8-3b62-4070-96e0-1bf3dc469f66)
+
+### Listen to the NotebookLLM Audio Guides
 
 If you prefer listening **while following the written steps above**, optional [**Audio Guides**](https://denisecase.github.io/pro-analytics-01-audio-guides/) are available. These are **AI-generated two-person podcasts**.
 
