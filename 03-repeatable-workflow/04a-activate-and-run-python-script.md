@@ -45,7 +45,7 @@ The commands work in PowerShell.
 
 ```powershell
 .\.venv\Scripts\activate
-python myfile.py
+py myfile.py
 ```
 
 
