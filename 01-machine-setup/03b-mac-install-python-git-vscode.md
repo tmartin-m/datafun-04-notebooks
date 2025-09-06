@@ -34,9 +34,39 @@ If any fail, revisit the installers and try again.
 
 ---
 
-## OPTIONAL/ADVANCED: Use Package Managers (Homebrew)
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Install <code>uv</code> and <code>ruff</code></strong></summary>
 
-We can use package managers to install VS Code. Additional configuration may be need for these options. 
+These tools are modern, high-performance alternatives to traditional Python tools:
+
+- `uv` replaces `pip` and `venv` with a much faster dependency and environment manager.
+- `ruff` replaces `flake8`, `black`, and more with a single ultra-fast linter and formatter.
+
+Install both globally (once per machine):
+
+```zsh
+pip3 install uv ruff
+```
+
+Verify installation:
+
+```zsh
+uv --version
+ruff --version
+```
+
+NOTE: These are **not required** for most users.  
+You'll need `uv` to try the advanced option in the project initialization workflow.
+
+</details>
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Use Package Managers (Homebrew)</strong></summary>
+
+We can use package managers to install VS Code.
+Additional configuration may be need for these options. 
 To try them, open a terminal and run the following commands:
 
 ```zsh
@@ -56,16 +86,23 @@ These apps will appear in Finder, Dock, and Spotlight search, just like other ma
 
 Restart your machine and verify the installations using the same commands listed above.
 
+</details>
+
 ---
 
 
-## OPTIONAL/ADVANCED: Install Multiple Versions of Python with pyenv
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Install Multiple Versions of Python with <code>pyenv</code></strong></summary>
 
 If you need to add an earlier version of Python (e.g. to use with complex tools such as Kafka or Spark), use pyenv to install additional Python versions like so:
 
 ```zsh
 pyenv install 3.11.11
 ```
+We can specify the desired Python version when creating a project virtual environment in the next workflow.
+
+</details>
+
 ---
 
 ## Screenshots

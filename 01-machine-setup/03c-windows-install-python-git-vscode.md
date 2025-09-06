@@ -32,7 +32,75 @@ code --version
 IMPORTANT: Each command should return a version number.
 If any fail, revisit the installers and try again. 
 
-## OPTIONAL/ADVANCED: Required Only If Using Advanced Tools like Apache Kafka or Apache Spark
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Install <code>uv</code> and <code>ruff</code></strong></summary>
+
+These tools are modern, high-performance alternatives to traditional Python tools:
+
+- `uv` replaces `pip` and `venv` with a much faster dependency and environment manager.
+- `ruff` replaces `flake8`, `black`, and more with a single ultra-fast linter and formatter.
+
+Install both globally (once per machine):
+
+```powershell
+pip install uv ruff
+```
+
+Verify installation:
+
+```powershell
+uv --version
+ruff --version
+```
+
+NOTE: These are **not required** for most users.  
+You'll need `uv` to try the advanced option in the project initialization workflow.
+
+</details>
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Install Multiple Versions of Python</strong></summary>
+
+This is not typically needed.  
+Only do this if you need to run an older version of Python (e.g., for Kafka or Spark).
+
+Use `winget` to install an alternate version:
+
+```powershell
+winget install --id Python.Python.3.11.11
+```
+
+Note: py --version and python --version and python3 --version may or may not work and may return different versions depending on which order they were installed, system path settings, and more.
+
+We can specify the desired Python version when creating a project virtual environment in the next workflow.
+
+</details>
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Use Package Managers (winget)</strong></summary>
+
+You can also install core tools with `winget`. Open a PowerShell terminal and run the following commands:
+
+```powershell
+winget install --id Python.Python.3
+winget install --id Git.Git
+winget install --id Microsoft.VisualStudioCode
+```
+
+Restart your machine and verify installations using the commands shown earlier.
+
+</details>
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED: Set up WSL (better with tools like Apache Kafka or Apache Spark)</strong></summary>
 
 This section is **required** only if you're using advanced tools like **Apache Kafka** or **Apache Spark**, which may not run reliably on base Windows.  
 For these tools, use **WSL2** (Windows Subsystem for Linux 2) with **Ubuntu**.
@@ -111,10 +179,13 @@ You now have:
 - Python 3.11, pip, and git installed.
 - VS Code integrated and running from WSL (or Windows - it's truly cross platform).
 
-**Use WSL2 for all Kafka/Spark projects.**  
+**Use WSL2 for Kafka/Spark.**  
 You can still use normal Windows for basic Python work.
-Just remember to move to WSL2 when needed, e.g. for all projects using advanced tools like Apache Kafka or Apache Spark. 
+Just remember to move to WSL2 when needed, e.g. to run advanced services like Apache Kafka or Apache Spark. 
+
+</details>
 
 ---
+
 
 [🟢 Continue with Part 1: Machine Setup](MACHINE-SETUP.md)

@@ -16,7 +16,7 @@ These tasks include starting a project from scratch or using an existing templat
 2. ALWAYS Use Git to **clone** the new repository to your local machine:  
    - [02-clone-repo-to-local.md](02-clone-repo-to-local.md)
 
-3. *IF starting from scratch only*: Add key files such as `.gitignore` and `requirements.txt`:  
+3. *IF starting from scratch only*: Add key files such as `.gitignore` and `requirements.txt` (or `project.toml` if following advanced Option B):  
    - [03-add-gitignore-and-requirements.md](03-add-gitignore-and-requirements.md)
 
 4. *IF starting from scratch only*: Use Git to add, commit, and push your new files to GitHub:  

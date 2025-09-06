@@ -13,7 +13,7 @@ Open your project repository in VS Code.
 
 We'll open a new terminal in VS Code and run a single command to create a new .venv folder for the local project virtual environment.
 
-## Windows Users - Task 1. Create .venv
+## Windows Users - Create .venv (Recommended Option A)
 
 Run the following command from the project root directory.
  
@@ -25,7 +25,7 @@ py -m venv .venv
 
 If you see: `Could not find platform independent libraries <prefix>` - it is just a notice and doesn't seem to cause any issues. 
 
-## Mac/Linux Users - Task 1. Create .venv
+## Mac/Linux Users - Create .venv (Recommended Option A)
 
 Run the following command from the project root directory.
 
@@ -43,7 +43,8 @@ Click Yes.
 
 ---
 
-## OPTIONAL/ADVANCED OPTION (Only if Older Python is Needed)
+<details>
+<summary><strong>OPTIONAL/ADVANCED OPTION A (Only if Older Python Version is Needed)</strong></summary>
 
 *Do not continue with this section unless you are using complex tools like Apache Kafka or Apache Spark that may take a while to catch up to the latest version of Python. Know these instructions are here when you need them later.*
 
@@ -64,6 +65,52 @@ py -3.11 -m venv .venv
 pyenv local 3.11.11
 python3 -m venv .venv
 ```
+
+</details>
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED OPTION B: Create `.venv` with `uv` (advanced)</strong></summary>
+
+The latest virtual environment manager [`uv`](https://github.com/astral-sh/uv) is fast and works across platforms.
+
+If you've already installed `uv` (see Part 1: Machine Setup), you can create your `.venv` with:
+
+```bash
+uv venv
+```
+
+This creates the same `.venv` folder, ready for activation and use.
+
+This works on **Windows (PowerShell)**, **macOS**, **Linux**, and **WSL**.
+
+IMPORTANT: Remember to use Option B commands in the Repeatable Workflow as well. 
+
+</details>
+
+
+---
+
+<details>
+<summary><strong>OPTIONAL/ADVANCED OPTION B: Create `.venv` with `uv` (advanced) (Only if Older Python Version is Needed)</strong></summary>
+
+The latest virtual environment manager [`uv`](https://github.com/astral-sh/uv) is fast and works across platforms.
+
+If you've already installed `uv` (see Part 1: Machine Setup), you can create your `.venv` with:
+
+```bash
+uv venv
+```
+
+This creates the same `.venv` folder, ready for activation and use.
+
+This works on **Windows (PowerShell)**, **macOS**, **Linux**, and **WSL**.
+
+IMPORTANT: Remember to use Option B commands in the Repeatable Workflow as well. 
+
+</details>
+
 
 ---
 
