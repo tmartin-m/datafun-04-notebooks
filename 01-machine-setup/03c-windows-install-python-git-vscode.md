@@ -42,21 +42,21 @@ These tools are modern, high-performance alternatives to traditional Python tool
 - `uv` replaces `pip` and `venv` with a much faster dependency and environment manager.
 - `ruff` replaces `flake8`, `black`, and more with a single ultra-fast linter and formatter.
 
-Install both globally (once per machine):
+Install uv globally (once per machine):
 
 ```powershell
-pip install uv ruff
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
 Verify installation:
 
 ```powershell
 uv --version
-ruff --version
 ```
 
 NOTE: These are **not required** for most users.  
 You'll need `uv` to try the advanced option in the project initialization workflow.
+Install `ruff` with each project (later).
 
 </details>
 
