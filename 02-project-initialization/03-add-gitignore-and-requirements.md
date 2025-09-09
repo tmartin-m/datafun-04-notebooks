@@ -70,6 +70,13 @@ dependencies = [
     "seaborn"
 ]
 
+[project.optional-dependencies]
+# Development-only tools
+dev = [
+    "ruff",
+    "pytest"
+]
+
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
