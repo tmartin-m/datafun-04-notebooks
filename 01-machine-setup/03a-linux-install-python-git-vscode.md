@@ -40,7 +40,7 @@ If any fail, revisit the installers and try again.
 ---
 
 <details>
-<summary><strong>OPTIONAL/ADVANCED: Install `uv`</strong></summary>
+<summary><strong>OPTIONAL/ADVANCED: Install Advanced Tooling (uv)</strong></summary>
 
 These tools are modern, high-performance alternatives to traditional Python tools:
 
