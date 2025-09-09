@@ -40,7 +40,7 @@ If any fail, revisit the installers and try again.
 ---
 
 <details>
-<summary><strong>OPTIONAL/ADVANCED: Install `uv` and `ruff`</strong></summary>
+<summary><strong>OPTIONAL/ADVANCED: Install `uv`</strong></summary>
 
 These tools are modern, high-performance alternatives to traditional Python tools:
 
