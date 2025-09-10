@@ -103,11 +103,11 @@ Restart your machine and verify installations using the commands shown earlier.
 <summary><strong>OPTIONAL/ADVANCED: Set up WSL (better with tools like Apache Kafka or Apache Spark)</strong></summary>
 
 This section is **required** only if you're using advanced tools like **Apache Kafka** or **Apache Spark**, which may not run reliably on base Windows.  
-For these tools, use **WSL2** (Windows Subsystem for Linux 2) with **Ubuntu**.
+For these tools, use **WSL** (Windows Subsystem for Linux 2) with **Ubuntu**.
 
-You only need to do this setup once. After that, you’ll use WSL2 for all Kafka/Spark projects.
+You only need to do this setup once. After that, you’ll use WSL for all Kafka/Spark projects.
 
-### Advanced Step 1. Enable WSL2 and Install Ubuntu Operating System
+### Advanced WSL Step 1. Enable WSL and Install Ubuntu Operating System
 
 In an **elevated PowerShell** terminal (right-click / Run as Administrator), run:
 
@@ -117,7 +117,29 @@ wsl --install
 
 Restart your machine if prompted.
 
-### Advanced Step 2. Launch Ubuntu
+
+<details> <summary> WSL Trouble? (Expand if needed)</summary>
+
+<hr>
+  
+> If wsl does not install, try installing with:
+
+```powershell
+wsl --install -d Ubuntu
+```
+
+> **Restart** when prompted.
+
+> If you get **virtualization errors**, you may need to reboot and enable virtualization in your BIOS/UEFI. 
+> On most PCs this is Intel VT-x or AMD-V.
+> Look for "Virtualization Technology" and turn it ON.
+> Work with your favorite AI assistant for additional help. 
+> After enabling, **restart** Windows and try again.
+
+<hr>
+</details>
+
+### Advanced WSL Step 2. Launch Ubuntu
 
 After reboot, open **Ubuntu** from the Start Menu.
 
@@ -129,7 +151,7 @@ The first time you launch it:
 - **IMPORTANT: Remember your username and password**.  You can always recreate your WSL, but it helps to be able to return to your WSL installation after some time has passed. 
 
 
-### Advanced Step 3. Update Ubuntu
+### Advanced WSL Step 3. Update Ubuntu
 
 Run the following commands inside your Ubuntu terminal:
 
@@ -137,51 +159,15 @@ Run the following commands inside your Ubuntu terminal:
 sudo apt update && sudo apt upgrade -y
 ```
 
-### Advanced Step 4. Install Python 3.11 and pip
-
-Ubuntu often comes with Python preinstalled, but we’ll install the correct version:
-
-```bash
-sudo apt install -y python3.11 python3.11-venv python3.11-distutils python3-pip
-```
-
-Verify installation:
-
-```bash
-python3.11 --version
-pip3 --version
-```
-
-### Advanced Step 5. Install Git in WSL
-
-```bash
-sudo apt install -y git
-git --version
-```
-
-### Advanced Step 6. Open VS Code from WSL
-
-Install the **WSL Extension** for VS Code (if prompted, accept).
-
-From the Ubuntu terminal, type:
-
-```bash
-code .
-```
-
-This opens VS Code inside WSL. You can now install any needed Python extensions **inside WSL** when prompted.
-
-### Celebrate: Your Advanced WSL2 Setup is Complete!
+### Celebrate: Your Advanced WSL Setup is Complete!
 
 You now have:
 
 - A full Linux environment (Ubuntu) inside Windows.
-- Python 3.11, pip, and git installed.
-- VS Code integrated and running from WSL (or Windows - it's truly cross platform).
 
-**Use WSL2 for Kafka/Spark.**  
-You can still use normal Windows for basic Python work.
-Just remember to move to WSL2 when needed, e.g. to run advanced services like Apache Kafka or Apache Spark. 
+**Use WSL for Apache Kafka/Spark.**  
+You can still use normal Windows for VS Code, repos, Python, and Python virtual environments. 
+Just remember to move to WSL when needed, e.g. to run advanced services like Apache Kafka or Apache Spark. 
 
 </details>
 
