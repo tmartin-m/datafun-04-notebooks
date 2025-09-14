@@ -124,7 +124,7 @@ py -m pip install --upgrade -r requirements.txt
 uv venv
 .\.venv\Scripts\activate
 uv pip install --upgrade pip setuptools wheel
-uv sync
+uv pip install -e ".[dev]"
 ```
 
 </details>
@@ -148,7 +148,7 @@ python3 -m pip install --upgrade -r requirements.txt
 uv venv
 source .venv/bin/activate
 uv pip install --upgrade pip setuptools wheel
-uv sync
+uv pip install -e ".[dev]"
 ```
 
 </details>
