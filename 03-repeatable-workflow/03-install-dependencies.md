@@ -20,8 +20,8 @@ Open a terminal.
 These commands:
 
 1. Activate the virtual environment (if not already active).
-2. Install and upgrade key tools in .venv.
-3. Install and upgrade required project dependencies.
+2. Install and upgrade key packaging tools in .venv.
+3. Install and upgrade all project and development dependencies.
 
 <details>
 <summary><strong>Windows PowerShell (recommended Option A + requirements.txt)</strong></summary>
@@ -40,7 +40,7 @@ py -m pip install --upgrade -r requirements.txt
 ```powershell
 .\.venv\Scripts\activate
 uv pip install --upgrade pip setuptools wheel
-uv sync
+uv pip install --upgrade -e .[dev]
 ```
 
 </details>
@@ -62,7 +62,7 @@ python3 -m pip install --upgrade -r requirements.txt
 ```shell
 source .venv/bin/activate
 uv pip install --upgrade pip setuptools wheel
-uv sync
+uv pip install --upgrade -e .[dev]
 ```
 
 </details>
@@ -77,7 +77,7 @@ For example, it's common to add in matplotlib or seaborn once we have interestin
 
 ## Experience
 
-Learn how and when to add external dependencies to requirements.txt and repeat this process as needed to make use of the powerful free ecosystem for Python projects.
+Learn how and when to add external dependencies to `requirements.txt` (or `pyproject.toml`) and repeat this process as needed to make use of the powerful free ecosystem for Python projects.
 Explore popular external packages like requests and more to see why they get used.
 
 ---

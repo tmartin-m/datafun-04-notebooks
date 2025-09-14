@@ -35,28 +35,28 @@ If any fail, revisit the installers and try again.
 ---
 
 <details>
-<summary><strong>OPTIONAL/ADVANCED: Install <code>uv</code> and <code>ruff</code></strong></summary>
+<summary><strong>OPTIONAL/ADVANCED: Install Advanced Tooling (uv)</strong></summary>
 
 These tools are modern, high-performance alternatives to traditional Python tools:
 
 - `uv` replaces `pip` and `venv` with a much faster dependency and environment manager.
 - `ruff` replaces `flake8`, `black`, and more with a single ultra-fast linter and formatter.
 
-Install both globally (once per machine):
+Install uv globally (once per machine):
 
 ```zsh
-pip3 install uv ruff
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 Verify installation:
 
 ```zsh
 uv --version
-ruff --version
 ```
 
 NOTE: These are **not required** for most users.  
 You'll need `uv` to try the advanced option in the project initialization workflow.
+Install `ruff` with each project (later).
 
 </details>
 

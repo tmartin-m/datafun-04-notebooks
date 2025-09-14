@@ -37,7 +37,7 @@ This section walks you through the steps to either:
 
 NEW: Choose your approach for managing your virtual environment. This guide supports:
 
-- **Option A:** traditional `venv` + `requirements.txt` - this is the recommended choice as it is widely used and supported across all tooling. Most course instructions refer to `venv`, and everyone working with Python should be familiar with this workflow. 
+- **Option A:** traditional `venv` + `requirements.txt` - this is the **recommended** choice as it is widely used and supported across all tooling. Most course instructions refer to `venv`, and everyone working with Python should be familiar with this workflow. 
 
 - **Option B:** a newer, faster `uv` + `pyproject.toml` - `uv` is significantly faster, but not yet widely adopted. The `pyproject.toml` file replaces `requirements.txt` and includes additional information. This is an advanced option, intended for use only after mastering Option A.
 
